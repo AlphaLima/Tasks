@@ -1,0 +1,27 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
+      <Location longitude="6.1038889" latitude="51.6908333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Borkenberge" id="0" comment="EDLB 125.875" altitude="49.0">
+      <Location longitude="7.2880556" latitude="51.78"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Terlet" id="0" comment=" 130.125" altitude="82.0">
+      <Location longitude="5.9197222" latitude="52.0619444"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
+      <Location longitude="6.1038889" latitude="51.6908333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
