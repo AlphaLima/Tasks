@@ -6,22 +6,16 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borkenberge" id="0" comment="EDLB 125.875" altitude="49.0">
-      <Location longitude="7.2880556" latitude="51.78"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
     <Waypoint name="Stadtlohn Vreden" id="0" comment="EDLS 119.2" altitude="49.0">
       <Location longitude="6.8405556" latitude="51.9958333"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borken Hoxfeld" id="0" comment="EDLY 122.925" altitude="49.0">
-      <Location longitude="6.8152778" latitude="51.8530556"/>
+    <Waypoint name="Borkenberge" id="0" comment="EDLB 125.875" altitude="49.0">
+      <Location longitude="7.2880556" latitude="51.78"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
@@ -31,7 +25,7 @@
   </Point>
   <Point type="Finish">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
-      <Location longitude="9.22067880631" latitude="52.2952041317"/>
+      <Location longitude="5.38198328019" latitude="51.7646449507"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
