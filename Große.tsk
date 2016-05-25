@@ -1,0 +1,51 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
+      <Location longitude="6.1038889" latitude="51.6908333"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Venlo" id="0" comment=" 123.35" altitude="43.0">
+      <Location longitude="6.215" latitude="51.3638889"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Sevelen Nord (Gld Closed)" id="0" comment=" None" altitude="30.0">
+      <Location longitude="6.4277778" latitude="51.4888889"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Borkenberge" id="0" comment="EDLB 125.875" altitude="49.0">
+      <Location longitude="7.2880556" latitude="51.78"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Stadtlohn Vreden" id="0" comment="EDLS 119.2" altitude="49.0">
+      <Location longitude="6.8405556" latitude="51.9958333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Kleve Wisseler D" id="0" comment=" 123.15" altitude="18.0">
+      <Location longitude="6.2991667" latitude="51.7694444"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
+      <Location longitude="6.1038889" latitude="51.6908333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="4.93429040909" latitude="52.1286329793"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
