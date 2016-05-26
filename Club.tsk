@@ -1,13 +1,13 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="001Goch Asperden" id="0" comment="" altitude="16.0">
-      <Location longitude="6.1038833" latitude="51.6908333"/>
+    <Waypoint name="005Pfalzdorf Kirche" id="0" comment="" altitude="28.0">
+      <Location longitude="6.1638833" latitude="51.7066667"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="005Startlinie" id="0" comment="" altitude="46.0">
-      <Location longitude="6.1258333" latitude="51.73805"/>
+    <Waypoint name="161Legden Osterwick" id="0" comment="" altitude="113.0">
+      <Location longitude="7.1833333" latitude="52.0188833"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -18,28 +18,16 @@
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="463Gronau" id="0" comment="" altitude="40.0">
-      <Location longitude="7.0291667" latitude="52.2138833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="063Borken Kirche" id="0" comment="" altitude="30.0">
-      <Location longitude="6.8597167" latitude="51.8441667"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="012Emmerich Palmer" id="0" comment="" altitude="13.0">
-      <Location longitude="6.27445" latitude="51.8222167"/>
+    <Waypoint name="013Rees B67XRhein B" id="0" comment="" altitude="12.0">
+      <Location longitude="6.37695" latitude="51.75445"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="001Goch Asperden" id="0" comment="" altitude="16.0">
-      <Location longitude="6.1038833" latitude="51.6908333"/>
+    <Waypoint name="002Lineup28" id="0" comment="" altitude="19.0">
+      <Location longitude="6.1402833" latitude="51.68945"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="3000.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
 
