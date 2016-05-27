@@ -1,33 +1,57 @@
-<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
-      <Location longitude="6.1038889" latitude="51.6908333"/>
+    <Waypoint name="005Pfalzdorf Kirche" id="0" comment="" altitude="28.0">
+      <Location longitude="6.1638833" latitude="51.7066667"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Borkenberge" id="0" comment="EDLB 125.875" altitude="49.0">
-      <Location longitude="7.2880556" latitude="51.78"/>
+  <Point type="Turn">
+    <Waypoint name="290Beckum A2XEb BAB" id="0" comment="" altitude="90.0">
+      <Location longitude="8.0197167" latitude="51.7761167"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Enschede Twenthe" id="0" comment="EHTW 119.95" altitude="34.0">
-      <Location longitude="6.8891667" latitude="52.2758333"/>
+  <Point type="Turn">
+    <Waypoint name="158Borkenberge" id="0" comment="" altitude="49.0">
+      <Location longitude="7.28805" latitude="51.78"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="40000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Deventer Teuge" id="0" comment="EHTE 121.0" altitude="6.0">
-      <Location longitude="6.0466667" latitude="52.2447222"/>
+  <Point type="Turn">
+    <Waypoint name="181Metelen Kloster" id="0" comment="" altitude="59.0">
+      <Location longitude="7.2125" latitude="52.145"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="30000.0"/>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="130Alstatte Rs" id="0" comment="" altitude="39.0">
+      <Location longitude="6.91945" latitude="52.13"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="161Legden Osterwick" id="0" comment="" altitude="113.0">
+      <Location longitude="7.1833333" latitude="52.0188833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="091Reken A31 BAB035" id="0" comment="" altitude="100.0">
+      <Location longitude="6.9836167" latitude="51.8077833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="013Rees B67XRhein B" id="0" comment="" altitude="12.0">
+      <Location longitude="6.37695" latitude="51.75445"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
-      <Location longitude="6.1038889" latitude="51.6908333"/>
+    <Waypoint name="001Goch Asperden" id="0" comment="" altitude="16.0">
+      <Location longitude="6.1038833" latitude="51.6908333"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
 </Task>
 
