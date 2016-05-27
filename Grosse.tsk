@@ -9,25 +9,25 @@
     <Waypoint name="290Beckum A2XEb BAB" id="0" comment="" altitude="90.0">
       <Location longitude="8.0197167" latitude="51.7761167"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="158Borkenberge" id="0" comment="" altitude="49.0">
       <Location longitude="7.28805" latitude="51.78"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="181Metelen Kloster" id="0" comment="" altitude="59.0">
       <Location longitude="7.2125" latitude="52.145"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="10000"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="130Alstatte Rs" id="0" comment="" altitude="39.0">
       <Location longitude="6.91945" latitude="52.13"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="BGAEnhancedOption"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="161Legden Osterwick" id="0" comment="" altitude="113.0">
