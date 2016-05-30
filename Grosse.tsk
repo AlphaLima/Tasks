@@ -1,55 +1,49 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
-      <Location longitude="6.1038889" latitude="51.6908333"/>
+    <Waypoint name="Niederrhein" id="0" comment="EDLV 129.4" altitude="34.0">
+      <Location longitude="6.1422222" latitude="51.6025"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Deventer Teuge" id="0" comment="EHTE 121.0" altitude="6.0">
-      <Location longitude="6.0466667" latitude="52.2447222"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Kleve Wisseler D" id="0" comment=" 123.15" altitude="18.0">
-      <Location longitude="6.2991667" latitude="51.7694444"/>
-    </Waypoint>
-    <ObservationZone type="FAISector"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
-      <Location longitude="6.40886545182" latitude="52.2565520842"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Stadtlohn Vreden" id="0" comment="EDLS 119.2" altitude="49.0">
       <Location longitude="6.8405556" latitude="51.9958333"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Enschede Twenthe" id="0" comment="EHTW 119.95" altitude="34.0">
-      <Location longitude="6.8891667" latitude="52.2758333"/>
+    <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
+      <Location longitude="5.8805556" latitude="51.7852778"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Langeveen Neu" id="0" comment="   ? None" altitude="12.0">
+      <Location longitude="6.6769444" latitude="52.4663889"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Muenster Telgte" id="0" comment="EDLT 122.85" altitude="55.0">
+      <Location longitude="7.7736111" latitude="51.9444444"/>
     </Waypoint>
     <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borghorst Fuecht" id="0" comment=" 123.35" altitude="47.0">
-      <Location longitude="7.4519444" latitude="52.1502778"/>
+    <Waypoint name="Drensteinfurt" id="0" comment=" 123.425" altitude="69.0">
+      <Location longitude="7.7469444" latitude="51.7675"/>
     </Waypoint>
     <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borkenberge" id="0" comment="EDLB 125.875" altitude="49.0">
-      <Location longitude="7.2880556" latitude="51.78"/>
+    <Waypoint name="Niederrhein" id="0" comment="EDLV 129.4" altitude="34.0">
+      <Location longitude="6.1422222" latitude="51.6025"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
-      <Location longitude="6.1038889" latitude="51.6908333"/>
+    <Waypoint name="Niederrhein" id="0" comment="EDLV 129.4" altitude="34.0">
+      <Location longitude="6.1422222" latitude="51.6025"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
