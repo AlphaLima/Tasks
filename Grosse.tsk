@@ -1,21 +1,9 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
-      <Location longitude="6.1038889" latitude="51.6908333"/>
+    <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
+      <Location longitude="5.8805556" latitude="51.7852778"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Hamm Lippewiesen" id="0" comment="EDLH 134.05" altitude="58.0">
-      <Location longitude="7.8177778" latitude="51.6902778"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Langeveen Neu" id="0" comment="   ? None" altitude="12.0">
-      <Location longitude="6.6769444" latitude="52.4663889"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Borken Hoxfeld" id="0" comment="EDLY 122.925" altitude="49.0">
@@ -23,9 +11,21 @@
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
+  <Point type="Turn">
+    <Waypoint name="Enschede Twenthe" id="0" comment="EHTW 119.95" altitude="34.0">
+      <Location longitude="6.8891667" latitude="52.2758333"/>
+    </Waypoint>
+    <ObservationZone type="BGAEnhancedOption"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Lemelerveld" id="0" comment=" 122.5" altitude="3.0">
+      <Location longitude="6.3327778" latitude="52.4680556"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="10000"/>
+  </Point>
   <Point type="Finish">
-    <Waypoint name="Goch Asperden" id="0" comment="EDLG 126.5" altitude="16.0">
-      <Location longitude="6.1038889" latitude="51.6908333"/>
+    <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
+      <Location longitude="5.8805556" latitude="51.7852778"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
