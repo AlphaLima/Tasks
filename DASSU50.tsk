@@ -9,25 +9,25 @@
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="12.397787571" latitude="47.744522842"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="1000.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="12.3238015175" latitude="47.7191217045"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="12.5792121887" latitude="47.7055789914"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
       <Location longitude="12.479455471" latitude="47.8204790299"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="Unterwoessen" id="0" comment=" 122.3" altitude="565.0">
