@@ -15,7 +15,7 @@
     <Waypoint name="Borken Hoxfeld" id="0" comment="EDLY 122.925" altitude="49.0">
       <Location longitude="6.8152778" latitude="51.8530556"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
