@@ -1,33 +1,27 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
-      <Location longitude="5.8805556" latitude="51.7852778"/>
+    <Waypoint name="Malden SP2" id="0" comment="" altitude="22.0">
+      <Location longitude="5.85305" latitude="51.8086167"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borken Hoxfeld" id="0" comment="EDLY 122.925" altitude="49.0">
-      <Location longitude="6.8152778" latitude="51.8530556"/>
+    <Waypoint name="Borken-South" id="0" comment="" altitude="50.0">
+      <Location longitude="6.85" latitude="51.83"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Enschede Twenthe" id="0" comment="EHTW 119.95" altitude="34.0">
-      <Location longitude="6.8891667" latitude="52.2758333"/>
+    <Waypoint name="Zevenaar" id="0" comment="" altitude="12.0">
+      <Location longitude="6.1416667" latitude="51.9133333"/>
     </Waypoint>
-    <ObservationZone type="BGAEnhancedOption"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Lemelerveld" id="0" comment=" 122.5" altitude="3.0">
-      <Location longitude="6.3327778" latitude="52.4680556"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000"/>
+    <ObservationZone type="FAISector"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
-      <Location longitude="5.8805556" latitude="51.7852778"/>
+    <Waypoint name="Malden Gld" id="0" comment="" altitude="27.0">
+      <Location longitude="5.88055" latitude="51.7852833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="3000.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
 
