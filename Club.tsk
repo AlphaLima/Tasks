@@ -1,37 +1,25 @@
-<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="005Startlinie" id="0" comment="" altitude="46.0">
-      <Location longitude="6.1258333" latitude="51.73805"/>
+    <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
+      <Location longitude="5.8805556" latitude="51.7852778"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="065Borken Bf" id="0" comment="" altitude="30.0">
-      <Location longitude="6.8658333" latitude="51.8483333"/>
+  <Point type="Turn">
+    <Waypoint name="Borkenberge" id="0" comment="EDLB 125.875" altitude="49.0">
+      <Location longitude="7.2880556" latitude="51.78"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="069Schermbeck A31 B" id="0" comment="" altitude="59.0">
-      <Location longitude="6.9252833" latitude="51.7011167"/>
+  <Point type="Turn">
+    <Waypoint name="Free turnpoint" id="0" comment="" altitude="-999.0">
+      <Location longitude="6.11240625382" latitude="51.9281293117"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="20000.0"/>
-  </Point>
-  <Point type="Area">
-    <Waypoint name="013Rees B67XRhein B" id="0" comment="" altitude="12.0">
-      <Location longitude="6.37695" latitude="51.75445"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
-  </Point>
-  <Point type="Area">
-    <Waypoint name="001Goch Asperden" id="0" comment="" altitude="16.0">
-      <Location longitude="6.1038833" latitude="51.6908333"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="2000.0"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="001Goch Asperden" id="0" comment="" altitude="16.0">
-      <Location longitude="6.1038833" latitude="51.6908333"/>
+    <Waypoint name="Malden" id="0" comment=" 123.35" altitude="27.0">
+      <Location longitude="5.8805556" latitude="51.7852778"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
