@@ -6,20 +6,20 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Braunfels" id="0" comment=" 123.15" altitude="240.0">
-      <Location longitude="8.3930556" latitude="50.5255556"/>
+    <Waypoint name="Bad Koenigshofen" id="0" comment=" 130.125" altitude="313.0">
+      <Location longitude="10.4219444" latitude="50.2875"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Witzenhausen Bur" id="0" comment=" 123.5" altitude="204.0">
-      <Location longitude="9.8247222" latitude="51.35"/>
+    <Waypoint name="Plaetzer Huenfel" id="0" comment=" 122.2" altitude="350.0">
+      <Location longitude="9.7391667" latitude="50.7094444"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Titschendorf" id="0" comment=" 122.3" altitude="650.0">
-      <Location longitude="11.5227778" latitude="50.3972222"/>
+    <Waypoint name="Walldorf Ul" id="0" comment=" 123.425" altitude="361.0">
+      <Location longitude="10.3655556" latitude="50.6144444"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
