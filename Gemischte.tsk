@@ -1,27 +1,27 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Malden SP1" id="0" comment="" altitude="12.0">
-      <Location longitude="5.8533333" latitude="51.7802833"/>
+    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
+      <Location longitude="9.9536111" latitude="50.4988889"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borkenberge" id="0" comment="" altitude="48.0">
-      <Location longitude="7.2852833" latitude="51.7786167"/>
+    <Waypoint name="Weidberg Kaltenw" id="0" comment=" 123.425" altitude="619.0">
+      <Location longitude="10.0880556" latitude="50.6091667"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Zevenaar" id="0" comment="" altitude="12.0">
-      <Location longitude="6.1416667" latitude="51.9133333"/>
+    <Waypoint name="Bischofsberg" id="0" comment=" 122.2" altitude="342.0">
+      <Location longitude="10.2833333" latitude="50.4322222"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Malden Gld" id="0" comment="" altitude="27.0">
-      <Location longitude="5.88055" latitude="51.7852833"/>
+    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
+      <Location longitude="9.9536111" latitude="50.4988889"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
 </Task>
 
