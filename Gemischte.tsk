@@ -6,14 +6,20 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Weidberg Kaltenw" id="0" comment=" 123.425" altitude="619.0">
-      <Location longitude="10.0880556" latitude="50.6091667"/>
+    <Waypoint name="Braunfels" id="0" comment=" 123.15" altitude="240.0">
+      <Location longitude="8.3930556" latitude="50.5255556"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bischofsberg" id="0" comment=" 122.2" altitude="342.0">
-      <Location longitude="10.2833333" latitude="50.4322222"/>
+    <Waypoint name="Witzenhausen Bur" id="0" comment=" 123.5" altitude="204.0">
+      <Location longitude="9.8247222" latitude="51.35"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Titschendorf" id="0" comment=" 122.3" altitude="650.0">
+      <Location longitude="11.5227778" latitude="50.3972222"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
