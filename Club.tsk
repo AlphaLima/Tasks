@@ -18,12 +18,6 @@
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Plaetzer Huenfel" id="0" comment=" 122.2" altitude="350.0">
-      <Location longitude="9.7391667" latitude="50.7094444"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
     <Waypoint name="Bad Salzungen Ul" id="0" comment=" 123.425" altitude="236.0">
       <Location longitude="10.2180556" latitude="50.8169444"/>
     </Waypoint>
@@ -33,7 +27,7 @@
     <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
       <Location longitude="9.9536111" latitude="50.4988889"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
 
