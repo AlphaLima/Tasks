@@ -1,31 +1,31 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
-      <Location longitude="9.9536111" latitude="50.4988889"/>
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bad Neustadt" id="0" comment="EDFD 123.65" altitude="303.0">
-      <Location longitude="10.2272222" latitude="50.3061111"/>
+    <Waypoint name="100 TANN KIRCHE" id="0" comment="" altitude="390.0">
+      <Location longitude="10.0233333" latitude="50.645"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Walldorf Ul" id="0" comment=" 123.425" altitude="361.0">
-      <Location longitude="10.3655556" latitude="50.6144444"/>
+    <Waypoint name="016 BISCHOFSBERG" id="0" comment="" altitude="330.0">
+      <Location longitude="10.2833333" latitude="50.4325"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bad Salzungen Ul" id="0" comment=" 123.425" altitude="236.0">
-      <Location longitude="10.2180556" latitude="50.8169444"/>
+    <Waypoint name="033 FLADUNGEN" id="0" comment="" altitude="418.0">
+      <Location longitude="10.1458333" latitude="50.5233333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
-      <Location longitude="9.9536111" latitude="50.4988889"/>
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
