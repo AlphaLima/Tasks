@@ -1,25 +1,37 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Malden SP3" id="0" comment="" altitude="40.0">
-      <Location longitude="5.93695" latitude="51.78555"/>
+    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
+      <Location longitude="9.9536111" latitude="50.4988889"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borken HoXFeld" id="0" comment="" altitude="49.0">
-      <Location longitude="6.8152833" latitude="51.85305"/>
+    <Waypoint name="Bad Neustadt" id="0" comment="EDFD 123.65" altitude="303.0">
+      <Location longitude="10.2272222" latitude="50.3061111"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Zevenaar" id="0" comment="" altitude="12.0">
-      <Location longitude="6.1416667" latitude="51.9133333"/>
+    <Waypoint name="Walldorf Ul" id="0" comment=" 123.425" altitude="361.0">
+      <Location longitude="10.3655556" latitude="50.6144444"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Plaetzer Huenfel" id="0" comment=" 122.2" altitude="350.0">
+      <Location longitude="9.7391667" latitude="50.7094444"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Bad Salzungen Ul" id="0" comment=" 123.425" altitude="236.0">
+      <Location longitude="10.2180556" latitude="50.8169444"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Malden Gld" id="0" comment="" altitude="27.0">
-      <Location longitude="5.88055" latitude="51.7852833"/>
+    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
+      <Location longitude="9.9536111" latitude="50.4988889"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
