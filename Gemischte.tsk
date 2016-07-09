@@ -1,33 +1,45 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
-      <Location longitude="9.9536111" latitude="50.4988889"/>
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bad Koenigshofen" id="0" comment=" 130.125" altitude="313.0">
-      <Location longitude="10.4219444" latitude="50.2875"/>
+    <Waypoint name="081 PHLIPPSTHAL" id="0" comment="" altitude="233.0">
+      <Location longitude="9.9808333" latitude="50.84"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Plaetzer Huenfel" id="0" comment=" 122.2" altitude="350.0">
-      <Location longitude="9.7391667" latitude="50.7094444"/>
+    <Waypoint name="059 KALTENNORDHEIM" id="0" comment="" altitude="439.0">
+      <Location longitude="10.1591667" latitude="50.6275"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Walldorf Ul" id="0" comment=" 123.425" altitude="361.0">
-      <Location longitude="10.3655556" latitude="50.6144444"/>
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="063 KUENDORF DOLMAR" id="0" comment="" altitude="540.0">
+      <Location longitude="10.4658333" latitude="50.6208333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="002 HOHE HOELLE" id="0" comment="" altitude="758.0">
+      <Location longitude="9.96" latitude="50.4283333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Wasserkuppe" id="0" comment="EDER 118.65" altitude="898.0">
-      <Location longitude="9.9536111" latitude="50.4988889"/>
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="2000.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
 

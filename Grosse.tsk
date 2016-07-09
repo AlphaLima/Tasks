@@ -1,25 +1,43 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="Malden SP2" id="0" comment="" altitude="22.0">
-      <Location longitude="5.85305" latitude="51.8086167"/>
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borken-South" id="0" comment="" altitude="50.0">
-      <Location longitude="6.85" latitude="51.83"/>
+    <Waypoint name="081 PHLIPPSTHAL" id="0" comment="" altitude="233.0">
+      <Location longitude="9.9808333" latitude="50.84"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Zevenaar" id="0" comment="" altitude="12.0">
-      <Location longitude="6.1416667" latitude="51.9133333"/>
+    <Waypoint name="059 KALTENNORDHEIM" id="0" comment="" altitude="439.0">
+      <Location longitude="10.1591667" latitude="50.6275"/>
     </Waypoint>
-    <ObservationZone type="FAISector"/>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="063 KUENDORF DOLMAR" id="0" comment="" altitude="540.0">
+      <Location longitude="10.4658333" latitude="50.6208333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="002 HOHE HOELLE" id="0" comment="" altitude="758.0">
+      <Location longitude="9.96" latitude="50.4283333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Malden Gld" id="0" comment="" altitude="27.0">
-      <Location longitude="5.88055" latitude="51.7852833"/>
+    <Waypoint name="001 WASSERKUPPE06" id="0" comment="" altitude="902.0">
+      <Location longitude="9.9491667" latitude="50.4975"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
