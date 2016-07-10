@@ -6,14 +6,14 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="081 PHLIPPSTHAL" id="0" comment="" altitude="233.0">
-      <Location longitude="9.9808333" latitude="50.84"/>
+    <Waypoint name="034 GEISA" id="0" comment="" altitude="282.0">
+      <Location longitude="9.9491667" latitude="50.7175"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="059 KALTENNORDHEIM" id="0" comment="" altitude="439.0">
-      <Location longitude="10.1591667" latitude="50.6275"/>
+    <Waypoint name="058 JUECHSEN WEIHER" id="0" comment="" altitude="347.0">
+      <Location longitude="10.5133333" latitude="50.4758333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -24,8 +24,8 @@
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="063 KUENDORF DOLMAR" id="0" comment="" altitude="540.0">
-      <Location longitude="10.4658333" latitude="50.6208333"/>
+    <Waypoint name="016 BISCHOFSBERG" id="0" comment="" altitude="330.0">
+      <Location longitude="10.2833333" latitude="50.4325"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
