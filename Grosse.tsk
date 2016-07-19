@@ -6,26 +6,26 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borkenberge" id="0" comment="" altitude="48.0">
-      <Location longitude="7.2852833" latitude="51.7786167"/>
+    <Waypoint name="HAMM/LIP" id="0" comment="" altitude="58.0">
+      <Location longitude="7.8175" latitude="51.6913833"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Coesfeld" id="0" comment="" altitude="82.0">
-      <Location longitude="7.175" latitude="51.9283333"/>
+    <Waypoint name="Borken" id="0" comment="" altitude="68.0">
+      <Location longitude="7.0066667" latitude="51.8533333"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Dinslaken Cool tower" id="0" comment="" altitude="30.0">
-      <Location longitude="6.685" latitude="51.5783333"/>
+    <Waypoint name="Venlo Railway" id="0" comment="" altitude="20.0">
+      <Location longitude="6.16" latitude="51.37"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bocholt" id="0" comment="" altitude="27.0">
-      <Location longitude="6.6283333" latitude="51.8333333"/>
+    <Waypoint name="Stadtlohn Airfield" id="0" comment="" altitude="48.0">
+      <Location longitude="6.8483333" latitude="51.995"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
@@ -36,10 +36,10 @@
     <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Malden SP3" id="0" comment="" altitude="30.0">
-      <Location longitude="5.93695" latitude="51.78555"/>
+    <Waypoint name="Malden Finish" id="0" comment="" altitude="25.0">
+      <Location longitude="5.8808333" latitude="51.7852833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
 

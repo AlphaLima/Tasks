@@ -6,14 +6,14 @@
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Borken" id="0" comment="" altitude="68.0">
-      <Location longitude="7.0066667" latitude="51.8533333"/>
+    <Waypoint name="Nottuln" id="0" comment="" altitude="73.0">
+      <Location longitude="7.405" latitude="51.9066667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Dinslaken Cool tower" id="0" comment="" altitude="30.0">
-      <Location longitude="6.685" latitude="51.5783333"/>
+    <Waypoint name="Venlo Railway" id="0" comment="" altitude="20.0">
+      <Location longitude="6.16" latitude="51.37"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
@@ -33,7 +33,7 @@
     <Waypoint name="Malden Finish" id="0" comment="" altitude="25.0">
       <Location longitude="5.8808333" latitude="51.7852833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
 
