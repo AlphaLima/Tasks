@@ -1,23 +1,23 @@
-<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="Malden SP2" id="0" comment="" altitude="22.0">
       <Location longitude="5.85305" latitude="51.8086167"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="ZES3 OL6" id="0" comment="" altitude="4.0">
-      <Location longitude="5.2583333" latitude="51.7933333"/>
+  <Point type="Turn">
+    <Waypoint name="Varsseveld" id="0" comment="" altitude="19.0">
+      <Location longitude="6.4383333" latitude="51.9466667"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="SBG FL09" id="0" comment="" altitude="15.0">
-      <Location longitude="5.2922167" latitude="52.12695"/>
+  <Point type="Turn">
+    <Waypoint name="Rees" id="0" comment="" altitude="14.0">
+      <Location longitude="6.3766667" latitude="51.7566667"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
-  <Point type="Area">
+  <Point type="Turn">
     <Waypoint name="Persingen" id="0" comment="" altitude="10.0">
       <Location longitude="5.9175" latitude="51.8411167"/>
     </Waypoint>

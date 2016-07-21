@@ -6,20 +6,14 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="Tiel" id="0" comment="" altitude="4.0">
-      <Location longitude="5.4983333" latitude="51.89"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="15000.0"/>
-  </Point>
-  <Point type="Area">
-    <Waypoint name="Kaatsheuvel" id="0" comment="" altitude="14.0">
-      <Location longitude="5.055" latitude="51.6533333"/>
+    <Waypoint name="Ruurlo" id="0" comment="" altitude="17.0">
+      <Location longitude="6.4466667" latitude="52.0816667"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
   <Point type="Area">
-    <Waypoint name="SBG FL09" id="0" comment="" altitude="15.0">
-      <Location longitude="5.2922167" latitude="52.12695"/>
+    <Waypoint name="Hamminkeln" id="0" comment="" altitude="22.0">
+      <Location longitude="6.59" latitude="51.7483333"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
@@ -30,8 +24,8 @@
     <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Malden SP3" id="0" comment="" altitude="30.0">
-      <Location longitude="5.93695" latitude="51.78555"/>
+    <Waypoint name="Malden Finish" id="0" comment="" altitude="25.0">
+      <Location longitude="5.8808333" latitude="51.7852833"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
