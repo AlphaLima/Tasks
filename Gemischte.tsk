@@ -1,43 +1,37 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="Malden SP3" id="0" comment="" altitude="30.0">
       <Location longitude="5.93695" latitude="51.78555"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
+    <ObservationZone type="Line" length="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="HAMM/LIP" id="0" comment="" altitude="58.0">
-      <Location longitude="7.8175" latitude="51.6913833"/>
+  <Point type="Area">
+    <Waypoint name="Tiel" id="0" comment="" altitude="4.0">
+      <Location longitude="5.4983333" latitude="51.89"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="15000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Borken" id="0" comment="" altitude="68.0">
-      <Location longitude="7.0066667" latitude="51.8533333"/>
+  <Point type="Area">
+    <Waypoint name="Kaatsheuvel" id="0" comment="" altitude="14.0">
+      <Location longitude="5.055" latitude="51.6533333"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Venlo Railway" id="0" comment="" altitude="20.0">
-      <Location longitude="6.16" latitude="51.37"/>
+  <Point type="Area">
+    <Waypoint name="SBG FL09" id="0" comment="" altitude="15.0">
+      <Location longitude="5.2922167" latitude="52.12695"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Stadtlohn Airfield" id="0" comment="" altitude="48.0">
-      <Location longitude="6.8483333" latitude="51.995"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
-  </Point>
-  <Point type="Turn">
+  <Point type="Area">
     <Waypoint name="Persingen" id="0" comment="" altitude="10.0">
       <Location longitude="5.9175" latitude="51.8411167"/>
     </Waypoint>
     <ObservationZone type="Cylinder" radius="2000.0"/>
   </Point>
   <Point type="Finish">
-    <Waypoint name="Malden Finish" id="0" comment="" altitude="25.0">
-      <Location longitude="5.8808333" latitude="51.7852833"/>
+    <Waypoint name="Malden SP3" id="0" comment="" altitude="30.0">
+      <Location longitude="5.93695" latitude="51.78555"/>
     </Waypoint>
     <ObservationZone type="Line" length="1000.0"/>
   </Point>
