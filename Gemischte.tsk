@@ -3,7 +3,7 @@
     <Waypoint name="Malden SP3" id="0" comment="" altitude="30.0">
       <Location longitude="5.93695" latitude="51.78555"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Tiel" id="0" comment="" altitude="4.0">
@@ -15,13 +15,13 @@
     <Waypoint name="Kaatsheuvel" id="0" comment="" altitude="14.0">
       <Location longitude="5.055" latitude="51.6533333"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Sector" radius="10000.0" start_radial="306.3" end_radial="126.3"/>
   </Point>
   <Point type="Area">
     <Waypoint name="SBG FL09" id="0" comment="" altitude="15.0">
       <Location longitude="5.2922167" latitude="52.12695"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Sector" radius="10000.0" start_radial="51.7" end_radial="231.7"/>
   </Point>
   <Point type="Area">
     <Waypoint name="Persingen" id="0" comment="" altitude="10.0">
