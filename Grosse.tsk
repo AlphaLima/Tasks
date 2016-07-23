@@ -1,23 +1,23 @@
-<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
     <Waypoint name="Malden SP3" id="0" comment="" altitude="30.0">
       <Location longitude="5.93695" latitude="51.78555"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
+    <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Ruurlo" id="0" comment="" altitude="17.0">
-      <Location longitude="6.4466667" latitude="52.0816667"/>
+  <Point type="Turn">
+    <Waypoint name="Tiel" id="0" comment="" altitude="4.0">
+      <Location longitude="5.4983333" latitude="51.89"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
-  <Point type="Area">
-    <Waypoint name="Hamminkeln" id="0" comment="" altitude="22.0">
-      <Location longitude="6.59" latitude="51.7483333"/>
+  <Point type="Turn">
+    <Waypoint name="EMBOS TP" id="0" comment="" altitude="28.0">
+      <Location longitude="6.2166667" latitude="51.9"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="10000.0"/>
+    <ObservationZone type="Cylinder" radius="500.0"/>
   </Point>
-  <Point type="Area">
+  <Point type="Turn">
     <Waypoint name="Persingen" id="0" comment="" altitude="10.0">
       <Location longitude="5.9175" latitude="51.8411167"/>
     </Waypoint>
