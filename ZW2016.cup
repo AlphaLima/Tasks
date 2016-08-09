@@ -1,0 +1,246 @@
+name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
+"Bad Nieuweschans",BadNians,,5311.150N,00713.600E,-2.0m,1,,,,,,
+"RPnoord",RPnoord,,5207.000N,00601.000E,17.0m,1,,,,"Oplijnpun",,
+"RPoost",RPoost,,5203.200N,00604.900E,24.0m,1,,,,"Oplijnpun",,
+"RPzuid",RPzuid,,5158.900N,00558.700E,11.0m,1,,,,"Oplijnpun",,
+"StAnnaterMuiden",StAnnden,,5118.000N,00321.000E,0.0m,1,,,,,,
+"Veluwe N",VeluweN,,5213.783N,00551.883E,106.0m,1,,,,,,
+"Veluwe ZO",VeluweZO,,5202.283N,00600.000E,72.0m,1,,,,,,
+"Achelse Kluis",ACHELS,BE,5117.900N,00529.300E,30.0m,1,,,,"Southern corner of buildings",,
+"Dessel",DESSEL,BE,5114.100N,00509.900E,29.0m,1,,,,"045 Bridge North of canal X-junction",,"N102E005_045fotoJPG.jpg;N102E005_045mapJPG.jpg"
+"Turnhout",TURNHO,BE,5117.900N,00457.100E,22.0m,1,,,,"044 Viaduct A21-N19",,"N102E004_044fotoJPG.jpg;N102E004_044mapJPG.jpg"
+"Weelde Station",WEELDE,BE,5123.600N,00456.300E,28.0m,1,,,,"100 X-junction of N119-N132",,"N102E004_100fotoJPG.jpg;N102E004_100mapJPG.jpg"
+"Ahaus",AHAUS,DE,5203.100N,00703.700E,68.0m,1,,,,"012 Viaduct A31-B474",,"N104E007_012fotoJPG.jpg;N104E007_012mapJPG.jpg"
+"Aken TV-mast",AKENTV,DE,5046.700N,00614.600E,284.0m,1,,,,"042 TV-mast Stolberg",,"N101E006_042fotoJPG.jpg;N101E006_042mapJPG.jpg"
+"Aken/Lichtenbusch",AKENLI,DE,5043.300N,00607.500E,275.0m,1,,,,"Viaduct A44-L233",,
+"Alpen",ALPEN,DE,5133.900N,00629.400E,41.0m,1,,,,"Viaduct A57-B58",,
+"Alstatte",ALSTAT,DE,5207.800N,00655.200E,41.0m,1,,,,"Railway station",,
+"Ascheberg",ASCHEB,DE,5147.800N,00738.100E,70.0m,1,,,,"018 Viaduct A1-B58",,"N103E007_018fotoJPG.jpg;N103E007_018mapJPG.jpg"
+"Beckum",BECKUM,DE,5146.800N,00802.000E,131.0m,1,,,,"037 Viaduct A2-L475",,"N103E008_037fotoJPG.jpg;N103E008_037mapJPG.jpg"
+"Bersenbruck",BERSEN,DE,5233.100N,00757.300E,33.0m,1,,,,"Athletics stadium",,
+"Bocholt",BOCHOL,DE,5150.000N,00637.700E,27.0m,1,,,,"055 Bridge at NW-side of lake",,"N103E006_055fotoJPG.jpg;N103E006_055mapJPG.jpg"
+"Bohmte",BOHMTE,DE,5220.200N,00817.500E,51.0m,1,,,,"Railway bridge over Mittelland canal",,
+"Borken",BORKEN,DE,5151.200N,00700.400E,68.0m,1,,,,"020 Viaduct A31-B67n",,"N103E007_020fotoJPG.jpg;N103E007_020mapJPG.jpg"
+"Borken-South",BORKNS,DE,5149.800N,00651.000E,50.0m,1,,,,"054 Viaduct B70-B67n",,"N103E006_054fotoJPG.jpg;N103E006_054mapJPG.jpg"
+"Bramsche",BRAMSC,DE,5223.700N,00802.300E,56.0m,1,,,,"Viaduct A1-B218",,
+"Cappeln",CAPPEL,DE,5248.800N,00812.600E,56.0m,1,,,,"032 Viaduct A1-B72",,"N105E008_032fotoJPG.jpg;N105E008_032mapJPG.jpg"
+"Cloppenburg",CLOPPE,DE,5250.600N,00803.300E,42.0m,1,,,,"Railway station in town center",,
+"Coesfeld",COESFE,DE,5155.700N,00710.500E,82.0m,1,,,,"015 junction",,"N103E007_015fotoJPG.jpg;N103E007_015mapJPG.jpg"
+"Dammerberge",DAMMER,DE,5232.400N,00806.800E,75.0m,1,,,,"Restaurant viaduct over A1",,
+"Dinslaken Cool tower",DINSLC,DE,5134.700N,00641.100E,30.0m,1,,,,"023 Center of cooling tower near river",,"N103E006_023fotoJPG.jpg;N103E006_023mapJPG.jpg"
+"Dinslaken South",DINSLS,DE,5133.600N,00648.500E,65.0m,1,,,,"051 Viaduct A3-L21",,"N103E006_051fotoJPG.jpg;N103E006_051mapJPG.jpg"
+"Dorpen",DORPEN,DE,5259.200N,00715.000E,5.0m,1,,,,"Viaduct A31-B401 Exit 17",,
+"Dorsten",DORSTE,DE,5139.700N,00655.500E,30.0m,1,,,,"024 Bridge A31 over canal",,"N103E006_024fotoJPG.jpg;N103E006_024mapJPG.jpg"
+"Dortmund",DORTMU,DE,5135.100N,00722.000E,66.0m,1,,,,"022 Center of viaducts in T-junction A2-A45",,"N103E007_022fotoJPG.jpg;N103E007_022mapJPG.jpg"
+"Dulmen North",DULMEN,DE,5151.100N,00717.100E,82.0m,1,,,,"016 Viaduct A43-B474n",,"N103E007_016fotoJPG.jpg;N103E007_016mapJPG.jpg"
+"Emlichheim",EMLICH,DE,5236.600N,00650.900E,15.0m,1,,,,"Railway station in town center",,
+"Emmerich",EMMERI,DE,5149.900N,00613.600E,9.0m,1,,,,"074 Bridge of B220 over river Rhine, N pillar",,"N103E006_074fotoJPG.jpg;N103E006_074mapJPG.jpg"
+"Emsdetten",EMSDET,DE,5211.000N,00732.600E,35.0m,1,,,,"014 Bridge of L590 over river Ems",,"N104E007_014fotoJPG.jpg;N104E007_014mapJPG.jpg"
+"Erwitte",ERWITT,DE,5135.000N,00818.800E,141.0m,1,,,,"040 Viaduct A44-B55",,"N103E008_040fotoJPG.jpg;N103E008_040mapJPG.jpg"
+"Friesoythe",FRIESO,DE,5301.700N,00745.800E,9.0m,1,,,,"Bridge over Kusten canal 6km west of town",,
+"Furstenau",FURSTE,DE,5231.000N,00740.400E,49.0m,1,,,,"Castle in town center",,
+"Geldern",GELDERN,DE,5130.800N,00619.100E,25.0m,1,,,,"Railway station",,
+"Gesher",GESHER,DE,5156.300N,00702.600E,65.0m,1,,,,"034 Viaduct A31-B525",,"N103E007_034fotoJPG.jpg;N103E007_034mapJPG.jpg"
+"Goch",GOCH,DE,5139.400N,00610.800E,21.0m,1,,,,"026 Viaduct A57-B67",,"N103E006_026fotoJPG.jpg;N103E006_026mapJPG.jpg"
+"Gronau",GRONAU,DE,5211.500N,00707.000E,48.0m,1,,,,"011 Viaduct A31-B54n",,"N104E007_011fotoJPG.jpg;N104E007_011mapJPG.jpg"
+"Halle",HALLE,DE,5204.000N,00821.000E,150.0m,1,,,,"Viaduct B68-L782",,
+"Hameln",HAMELN,DE,5206.200N,00922.900E,70.0m,1,,,,"Railway station",,
+"Hamminkeln",HAMMIN,DE,5144.900N,00635.400E,22.0m,1,,,,"053 Viaduct A3-B473",,"N103E006_053fotoJPG.jpg;N103E006_053mapJPG.jpg"
+"Haren (Ems)",HAREN,DE,5248.800N,00711.500E,9.0m,1,,,,"Viaduct A31-B409, exit 19",,
+"Haselunne",HASELU,DE,5241.300N,00728.300E,18.0m,1,,,,"Viaduct B402-L54, 1,5km N of town",,
+"Herford",HERFOR,DE,5205.300N,00841.800E,84.0m,1,,,,"Viaduct A2-B239",,
+"Holdorf",HOLDOR,DE,5235.800N,00806.800E,34.0m,1,,,,"033 Viaduct A1-B214",,"N105E008_033fotoJPG.jpg;N105E008_033mapJPG.jpg"
+"Hopsten",HOPSTE,DE,5220.300N,00732.500E,38.0m,1,,,,"Runway center of closed airport",,
+"Hoxter",HOXTER,DE,5146.400N,00923.000E,93.0m,1,,,,"Bridge of L755 over Weser river",,
+"Huckelhoven",HUCKEL,DE,5103.600N,00611.600E,48.0m,1,,,,"103 Viaduct A46-L117, W of town",,"N102E006_103fotoJPG.jpg;N102E006_103mapJPG.jpg"
+"Hunxe",HUNXE,DE,5138.700N,00644.500E,23.0m,1,,,,"052 Bridge of A3 over canal",,"N103E006_052fotoJPG.jpg;N103E006_052mapJPG.jpg"
+"Ibbenburen",IBBENB,DE,5215.400N,00742.700E,76.0m,1,,,,"036 Viaduct A30-B219",,"N104E007_036fotoJPG.jpg;N104E007_036mapJPG.jpg"
+"Kamp Lintfort",KAMPLI,DE,5129.300N,00634.600E,25.0m,1,,,,"Viaduct of junction A57-A42",,
+"Kranenburg",KRANEN,DE,5148.000N,00601.400E,11.0m,1,,,,"Center of junction B9-B504, 1km NE of town",,
+"Lindern",LINDER,DE,5250.500N,00744.900E,36.0m,1,,,,"Footprint of TV-tower 2km West of town",,
+"Lingen",LINGEN,DE,5231.000N,00720.900E,30.0m,1,,,,"093 Viaduct B213-B214, E of town",,"N105E007_093fotoJPG.jpg;N105E007_093mapJPG.jpg"
+"Lonningen",LONNIN,DE,5243.600N,00745.600E,18.0m,1,,,,"Lake South of town",,
+"Lotte",LOTTE,DE,5216.100N,00755.600E,71.0m,1,,,,"072 Viaduct A1-A30",,"N104E007_072fotoJPG.jpg;N104E007_072mapJPG.jpg"
+"Lubbecke",LUBBEC,DE,5220.100N,00836.600E,50.0m,1,,,,"Railway bridge over Mittelland canal",,
+"Marl North",MARL,DE,5142.300N,00708.900E,39.0m,1,,,,"021 Viaduct A43-A52",,"N103E007_021fotoJPG.jpg;N103E007_021mapJPG.jpg"
+"Melle",MELLE,DE,5211.600N,00820.600E,85.0m,1,,,,"Viaduct A30-L91, exit 24",,
+"Melsungen",MELSUN,DE,5107.400N,00928.700E,301.0m,1,,,,"092 Viaduct A7-B253, 20km S of Kassel",,"N102E009_092fotoJPG.jpg;N102E009_092mapJPG.jpg"
+"Meppen",MEPPEN,DE,5240.400N,00718.300E,12.0m,1,,,,"Barrage in Dortmund-Ems canal",,
+"Meschede",MESCHE,DE,5121.900N,00817.500E,345.0m,1,,,,"041 Viaduct A46-B55",,"N102E008_041fotoJPG.jpg;N102E008_041mapJPG.jpg"
+"Mohnedam",MOHNED,DE,5129.400N,00803.600E,232.0m,1,,,,"094 Dam of Mohne lake, northern tower",,"N102E008_094fotoJPG.jpg;N102E008_094mapJPG.jpg"
+"Muenster NW",MuensrNW,DE,5159.300N,00733.600E,82.0m,17,,,,"Muenster NoordWest",,
+"Neuenhaus",NEUENH,DE,5230.000N,00658.300E,17.0m,1,,,,"Railway station",,
+"Niederkruchten",NIEDER,DE,5112.400N,00612.800E,60.0m,1,,,,"Viaduct A52-B221, exit 3",,
+"Nottuln",NOTTUL,DE,5154.400N,00724.300E,73.0m,1,,,,"035 Viaduct A43-B525",,"N103E007_035fotoJPG.jpg;N103E007_035mapJPG.jpg"
+"Oeyenhausen",OEYENH,DE,5212.300N,00850.400E,58.0m,1,,,,"Viaducts center of A30-A2 highway connection",,
+"Papenburg",PAPENB,DE,5303.100N,00730.200E,6.0m,1,,,,"Auto testcircuit 5km SE of Papenburg, center buildings",,
+"Quakenbruck",QUAKEN,DE,5240.400N,00756.900E,25.0m,1,,,,"Railway station",,
+"Recke",RECKE,DE,5221.400N,00743.200E,49.0m,1,,,,"Railway bridge over Mittelland channel",,
+"Rees",REES,DE,5145.400N,00622.600E,14.0m,1,,,,"049 River bridge of B67. Northern pillar",,"N103E006_049fotoJPG.jpg;N103E006_049mapJPG.jpg"
+"Rheda",RHEDA,DE,5151.300N,00819.400E,76.0m,1,,,,"Viaduct A2-B64",,
+"Ruhlerfeld",RUHLER,DE,5240.000N,00710.700E,17.0m,1,,,,"""Viaduct of A31-L47, exit 22",,
+"Schuttorf",SCHUTT,DE,5220.500N,00715.500E,32.0m,1,,,,"Viaduct A1(E30)-A31",,
+"Soest",SOEST,DE,5132.700N,00806.000E,150.0m,1,,,,"073 Viaduct A44-B229",,"N103E008_073fotoJPG.jpg;N103E008_073mapJPG.jpg"
+"Stadtlohn Airfield",STADTL,DE,5159.700N,00650.900E,48.0m,5,0,0.0m,"119.200","096 Start of runway 29",,"N103E006_096fotoJPG.jpg;N103E006_096mapJPG.jpg"
+"Steinfurt",STEINF,DE,5208.300N,00721.900E,72.0m,1,,,,"013 Viaduct B54-L510",,"N104E007_013fotoJPG.jpg;N104E007_013mapJPG.jpg"
+"Stukenbrock",STUKEN,DE,5151.400N,00840.000E,124.0m,1,,,,"038 Viaduct A33-B68",,"N103E008_038fotoJPG.jpg;N103E008_038mapJPG.jpg"
+"Sulingen",SULING,DE,5241.100N,00848.800E,55.0m,1,,,,"Railway station in town center",,
+"Telgte",Telgte,DE,5158.800N,00747.100E,52.0m,17,,,,"Telgte",,
+"TWRPSE",TWRPSE,DE,5214.400N,00704.400E,45.0m,1,,,,"Reporting point SE, Lake Dreilander See",,
+"Vechta",VECHTA,DE,5243.700N,00816.800E,31.0m,1,,,,"Railway station in town center",,
+"Versmold",Versmold,DE,5202.600N,00808.800E,69.0m,17,,,,"Versmold",,
+"Warburg",WARBUR,DE,5128.200N,00906.500E,205.0m,1,,,,"Viaduct A44-B252",,
+"Warendorf",WAREND,DE,5156.900N,00801.000E,55.0m,1,,,,"Viaduct B64-B475",,
+"Wesel",WESEL,DE,5138.700N,00636.400E,17.0m,1,,,,"050 River bridge B58, E bank",,"N103E006_050fotoJPG.jpg;N103E006_050mapJPG.jpg"
+"Wildeshausen",WILDES,DE,5253.900N,00820.100E,39.0m,1,,,,"101 Viaduct A1-B213, 40km SW of Bremen",,"N105E008_101fotoJPG.jpg;N105E008_101mapJPG.jpg"
+"Assen",ASSEN,NL,5258.300N,00632.900E,13.0m,1,,,,"Viaduct A28-N33 Exit 32",,
+"Balkbrug",BALKBR,NL,5236.200N,00624.400E,4.0m,1,,,,"065 Viaduct N48-N377",,"N105E006_065fotoJPG.jpg;N105E006_065mapJPG.jpg"
+"Barneveld",BARNEV,NL,5210.100N,00533.900E,10.0m,1,,,,"004 Viaduct A1-A30",,"N104E005_004fotoJPG.jpg;N104E005_004mapJPG.jpg"
+"Beetsterzwaag",BEETST,NL,5303.800N,00603.200E,0.0m,1,,,,"088 Viaduct A7 junction no. 28",,"N106E006_088fotoJPG.jpg;N106E006_088mapJPG.jpg"
+"Belfeld",BELFEL,NL,5119.200N,00606.800E,17.0m,1,,,,"083 Barrage of river, E bank",,"N102E006_083fotoJPG.jpg;N102E006_083mapJPG.jpg"
+"Bemmel",BEMMEL,NL,5153.800N,00552.000E,10.0m,1,,,,"Center of highway junction A15-A325",,
+"Borger",BORGER,NL,5255.400N,00647.100E,18.0m,1,,,,"027 Junction N34-N374",,"N105E006_027fotoJPG.jpg;N105E006_027mapJPG.jpg"
+"Borkenberge",BORKENBE,NL,5146.717N,00717.117E,48.0m,5,80,0.0m,"125.000","Turn Point",,
+"Bornerbroek",BORNER,NL,5217.600N,00638.400E,13.0m,1,,,,"090 Bridge A1-Twentecanal",,"N104E006_090fotoJPG.jpg;N104E006_090mapJPG.jpg"
+"Boxmeer",BOXMEE,NL,5139.800N,00557.900E,10.0m,1,,,,"087 River bridge A77-Westbridge",,"N103E005_087fotoJPG.jpg;N103E005_087mapJPG.jpg"
+"Brandtoren",BRANDT,NL,5202.400N,00559.300E,98.0m,1,,,,"Fire lookout tower at Rosendaalsefield",,
+"BRILON",BRILON,NL,5124.233N,00838.567E,459.0m,5,70,740.0m,"120.000","Turn Point, EDKO",,
+"Brug Deventer",Tgaf2,NL,5215.333N,00608.733E,0.0m,14,,,,"Afvliegpunt 2",,
+"Coevorden",COEVOR,NL,5239.500N,00642.900E,9.0m,1,,,,"029 Viaduct N34-N377",,"N105E006_029fotoJPG.jpg;N105E006_029mapJPG.jpg"
+"CP TMA3S",SBG TMA4,NL,5153.183N,00505.783E,1.0m,1,,,,"Check Point",,
+"CP TMA4C",CPTMA4C,NL,5209.400N,00515.883E,18.0m,1,,,,"Turn Point",,
+"CP TMA4NE",CPTMA4NE,NL,5215.900N,00525.167E,2.0m,1,,,,"Turn Point",,
+"CP TMA4SW",CPTMAEST,NL,5202.867N,00506.500E,2.0m,1,,,,"Turn Point",,
+"Deil",DEIL,NL,5151.400N,00513.700E,4.0m,1,,,,"046 Viaduct A2-A15",,"N103E005_046fotoJPG.jpg;N103E005_046mapJPG.jpg"
+"Den Ham",DEN HAM,NL,5227.932N,00629.672E,8.0m,1,,,,,,
+"Deventer",DEVENT,NL,5215.000N,00609.500E,10.0m,1,,,,"059 River bridge N344, E bank",,"N104E006_059fotoJPG.jpg;N104E006_059mapJPG.jpg"
+"Doesburg",DOESBU,NL,5201.100N,00607.800E,9.0m,1,,,,"057 River bridge N48, E bank",,"N104E006_057fotoJPG.jpg;N104E006_057mapJPG.jpg"
+"driebera12",3BERGA12,NL,5203.817N,00516.483E,8.0m,17,,,,"Turn Point, A12",,
+"Dronten",DRONTE,NL,5232.300N,00544.300E,0.0m,1,,,,"T-junction N305-N307",,
+"Ellecom",ELLECO,NL,5202.200N,00605.500E,17.0m,1,,,,"T-junction of N348-N317",,
+"EMBOS TP",EMBOS TP,NL,5154.000N,00613.000E,28.0m,7,,,,"Turn Point",,
+"Emmeloord",EMMELO,NL,5241.500N,00546.500E,0.0m,1,,,,"Viaduct of junction A6-N50",,
+"Emmen",EMMEN,NL,5246.200N,00655.900E,23.0m,1,,,,"028 Viaduct N31-N862",,"N105E006_028fotoJPG.jpg;N105E006_028mapJPG.jpg"
+"Epe",EPE,NL,5220.100N,00600.600E,8.0m,1,,,,"060 Viaduct A50-N309",,"N104E006_060fotoJPG.jpg;N104E006_060mapJPG.jpg"
+"FRBOS TP",FRBOS TP,NL,5232.000N,00745.000E,110.0m,1,,,,"Turn Point",,
+"Gieten",GIETEN,NL,5300.600N,00645.000E,21.0m,1,,,,"069 Center of roundabout N33-N34",,"N106E006_069fotoJPG.jpg;N106E006_069mapJPG.jpg"
+"Goor",GOOR,NL,5213.600N,00636.200E,14.0m,1,,,,"071 Canal bridge in N346",,"N104E006_071fotoJPG.jpg;N104E006_071mapJPG.jpg"
+"Gorkum",GORKUM,NL,5149.800N,00456.600E,1.0m,1,,,,"076 River bridge A27, N bank",,"N103E004_076fotoJPG.jpg;N103E004_076mapJPG.jpg"
+"Grathem",GRATHE,NL,5110.700N,00550.800E,30.0m,1,,,,"081 Viaduct A2-N273",,"N102E005_081fotoJPG.jpg;N102E005_081mapJPG.jpg"
+"Groenlo",GROENL,NL,5202.100N,00637.500E,27.0m,1,,,,"056 Viaduct N18-N319",,"N104E006_056fotoJPG.jpg;N104E006_056mapJPG.jpg"
+"Grou",GROU,NL,5304.800N,00549.700E,0.0m,1,,,,"Aqueduct A32 (Mid-Fryslan)",,
+"Haelen",HAELEN,NL,5112.600N,00554.800E,0.0m,1,,,,"082 Viaduct N273-N280",,"N102E005_082fotoJPG.jpg;N102E005_082mapJPG.jpg"
+"HAMM/LIP",HAMM-LIP,NL,5141.483N,00749.050E,58.0m,5,60,890.0m,"122.000","Turn Point, EDLH",,
+"Hardenberg",HARDEN,NL,5234.500N,00636.100E,8.0m,1,,,,"006 Road crossing N34-N343",,"N105E006_006fotoJPG.jpg;N105E006_006mapJPG.jpg"
+"Harderwijk",HARDER,NL,5220.200N,00538.700E,6.0m,1,,,,"Viaduct A28-N302, exit 13",,
+"Hattemerbroek",HATTEM,NL,5229.200N,00601.400E,4.0m,1,,,,"003 Viaduct A28-A50",,"N104E006_003fotoJPG.jpg;N104E006_003mapJPG.jpg"
+"Heerde",HEERDE,NL,5224.800N,00600.900E,39.0m,1,,,,"102 Viaduct A50, NW of town",,"N104E006_102fotoJPG.jpg;N104E006_102mapJPG.jpg"
+"Heerenveen",HEEREN,NL,5258.700N,00554.700E,0.0m,1,,,,"Viaduct A7-A32",,
+"Het Loo",Tgaf1,NL,5214.000N,00556.750E,0.0m,16,,,,"Afvliegpunt 1",,
+"HEUVL TP",HEUVL TP,NL,5200.000N,00530.000E,51.0m,1,,,,"Turn Point",,
+"HOLTR TP",HOLTR TP,NL,5218.000N,00626.000E,20.0m,7,,,,"Turn Point",,
+"Hoogeveen",HOOGEV,NL,5242.500N,00627.500E,11.0m,1,,,,"008 Viaduct A28-N37",,"N105E006_008fotoJPG.jpg;N105E006_008mapJPG.jpg"
+"Horst",HORST,NL,5126.900N,00604.200E,23.0m,1,,,,"085 Viaduct of junction with A73",,"N102E006_085fotoJPG.jpg;N102E006_085mapJPG.jpg"
+"Joure",JOURE,NL,5257.500N,00548.900E,0.0m,1,,,,"Center of roundabout A6-A7",,
+"Kaatsheuvel",KAATSH,NL,5139.200N,00503.300E,14.0m,1,,,,"077 T-junction of N261, exit Efteling",,"N103E005_077fotoJPG.jpg;N103E005_077mapJPG.jpg"
+"Koningsbosch",KONING,NL,5103.100N,00557.500E,65.0m,1,,,,"Junction N274-N572",,
+"Lemmer",LEMMER,NL,5250.800N,00543.300E,2.0m,1,,,,"Viaduct A6-N359",,
+"Leusden",LEUSDEN,NL,5208.883N,00524.833E,4.0m,14,,,,"Turn Point",,
+"Lichtmis",LICHTM,NL,5235.100N,00611.600E,0.0m,1,,,,"Viaduct A28-N377, exit 22",,
+"Lobith",Lobith,NL,5151.533N,00606.550E,15.0m,1,,,,,,
+"Lochem",LOCHEM,NL,5210.000N,00623.700E,12.0m,1,,,,"031 Bridge of N346 over canal",,"N104E006_031fotoJPG.jpg;N104E006_031mapJPG.jpg"
+"Malden Finish",MALFP,NL,5147.117N,00552.850E,25.0m,2,0,0.0m,,"Kruising lierbanen",,
+"Malden SP1",MALSP1,NL,5146.817N,00551.200E,12.0m,1,,,,"Rabobank",,
+"Malden SP2",MALSP2,NL,5148.517N,00551.183E,22.0m,1,,,,"Kruising Grootstalselaan-N844",,
+"Malden SP3",MaldeSP3,NL,5147.133N,00556.217E,30.0m,1,,,,,,
+"Mander",MANDER,NL,5227.500N,00649.900E,30.0m,1,,,,"Center of eastern cirkel",,
+"Markelo",MARKEL,NL,5214.200N,00626.500E,16.0m,1,,,,"070 Footprint of TV-tower",,"N104E006_070fotoJPG.jpg;N104E006_070mapJPG.jpg"
+"MARL",MARL,NL,5138.733N,00709.767E,73.0m,5,70,830.0m,"122.000","Turn Point, EDLM",,
+"Meer",MEER,NL,5127.200N,00443.300E,12.0m,1,,,,"095 Viaduct A1-N146",,"N102E004_095fotoJPG.jpg;N102E004_095mapJPG.jpg"
+"Meijel",MEYEL,NL,5119.200N,00553.100E,31.0m,1,,,,"098 Bridge over canal at X-junction N279-N275",,"N102E005_098fotoJPG.jpg;N102E005_098mapJPG.jpg"
+"Meppel",MEPPEL,NL,5242.300N,00612.400E,3.0m,1,,,,"001 Viaduct A32-N375",,"N105E006_001FotoJPG.jpg;N105E006_001mapJPG.jpg"
+"Nederweert",NEDERW,NL,5116.500N,00545.500E,31.0m,1,,,,"080 Canal X-junction, center of southern T",,"N102E005_080fotoJPG.jpg;N102E005_080mapJPG.jpg"
+"Neede",NEEDE,NL,5208.400N,00636.600E,28.0m,1,,,,"Junction N315-N824 just N of town",,
+"Niederaus KT",NIEDESKT,NL,5059.650N,00640.083E,83.0m,11,,,,"Turn Point",,
+"Nijverdal",NYVERD,NL,5221.900N,00628.500E,10.0m,1,,,,"030 Railway bridge over river",,"N104E006_030fotoJPG.jpg;N104E006_030mapJPG.jpg"
+"Nunspeet",NUNSPE,NL,5221.700N,00547.200E,13.0m,1,,,,"Viaduct A28-N310",,
+"Ommen",OMMEN,NL,5231.000N,00625.400E,7.0m,1,,,,"009 Bridge over river",,"N105E006_009fotoJPG.jpg;N105E006_009mapJPG.jpg"
+"Oosterwolde",OOSTER,NL,5258.600N,00617.600E,6.0m,1,,,,"Junction N351-N381",,
+"Oss",OSS,NL,5144.200N,00530.600E,9.0m,1,,,,"047 Viaduct A50, exit 15 Oss",,"N103E005_047fotoJPG.jpg;N103E005_047mapJPG.jpg"
+"Otterlo",OTTERL,NL,5206.200N,00546.200E,27.0m,1,,,,"Junction N304-N310",,
+"Persingen",Persigen,NL,5150.467N,00555.050E,10.0m,1,,,,,,
+"pyraus",PYRAUS,NL,5205.417N,00520.567E,50.0m,7,,,,"Turn Point",,
+"Raalte",RAALTE,NL,5223.400N,00617.000E,6.0m,1,,,,"010 Bridge N35 over canal",,"N104E006_010fotoJPG.jpg;N104E006_010mapJPG.jpg"
+"Rijssen",RYSSEN,NL,5217.100N,00633.400E,13.0m,1,,,,"061 Viaduct A1-N347",,"N104E006_061fotoJPG.jpg;N104E006_061mapJPG.jpg"
+"RINTELN",RINTELN,NL,5210.500N,00903.500E,55.0m,5,110,590.0m,"122.000","Turn Point, EDVR",,
+"Rucphen",RUCPHE,NL,5133.100N,00432.700E,9.0m,1,,,,"079 Viaduct over A58",,"N103E004_079fotoJPG.jpg;N103E004_079mapJPG.jpg"
+"Ruurlo",RUURLO,NL,5204.900N,00626.800E,17.0m,1,,,,"Railway crossing N315",,
+"SALLAND AF1",SALNDAF1,NL,5226.783N,00620.467E,4.0m,1,,,,"N348*KAN",,
+"SALLAND AF2",SALNDAF2,NL,5229.883N,00617.400E,4.0m,1,,,,"Rechteren",,
+"SALLAND FL",SALNDFL,NL,5228.133N,00620.000E,4.0m,1,,,,"Salland Finish",,
+"SBG FL09",SBG FL09,NL,5207.617N,00517.533E,15.0m,1,,,,"Home Field, Finish Point",,
+"SBG ST_C",SOESTERB,NL,5207.967N,00515.917E,20.0m,1,,,,"Start Point",,
+"SBG ST_N",SBG ST N,NL,5208.117N,00515.650E,23.0m,1,,,,"Start Point",,
+"SBG ST_Z",SBG ST Z,NL,5207.833N,00516.183E,12.0m,1,,,,"Start Point, Finish Point",,
+"Scheemda",SCHEEM,NL,5311.100N,00658.600E,0.0m,1,,,,"Viaduct A7-N362 Exit 45",,
+"Smilde TV",SMILDE,NL,5254.200N,00624.200E,16.0m,1,,,,"066 Footprint of TV-mast",,"N105E006_066fotoJPG.jpg;N105E006_066mapJPG.jpg"
+"Sneek",SNEEK,NL,5259.900N,00542.300E,0.0m,1,,,,"Aqueduct A7 (Pr. Margriet tunnel)",,
+"SOEST SA",SOEST SA,NL,5134.700N,00812.800E,124.0m,1,,,,"Turn Point, EDLZ",,
+"Spier",SPIER,NL,5248.900N,00627.700E,17.0m,1,,,,"007 Viaduct over A28",,"N105E006_007fotoJPG.jpg;N105E006_007mapJPG.jpg"
+"Stadskanaal",STADSK,NL,5259.400N,00659.500E,5.0m,1,,,,"T-junction of N366-N374, East of town",,
+"Terlet Gld",TERLE,NL,5203.717N,00555.183E,82.0m,4,120,1400.0m,"130.125",,,
+"Terwolde",Tgaf3,NL,5217.000N,00605.933E,0.0m,1,,,,"Afvliegpunt 3",,
+"TeugeFP1",Tgfp1,NL,5215.533N,00602.900E,0.0m,1,,,,"Finishpunt 1",,
+"Tiel",TIEL,NL,5153.400N,00529.900E,4.0m,1,,,,"048 River bridge N323, northern pillar",,"N103E005_048fotoJPG.jpg;N103E005_048mapJPG.jpg"
+"Tilburg",TILBUR,NL,5132.600N,00506.800E,14.0m,1,,,,"064 Viaduct A58-N269",,"N103E005_064fotoJPG.jpg;N103E005_064mapJPG.jpg"
+"TLFP1 NS",TLF1NS,NL,5203.500N,00556.500E,70.0m,1,,,,"Finish line NS, Center point. HT-line !!!",,
+"TLFP2 EW",TLF2EW,NL,5202.900N,00555.600E,58.0m,1,,,,"Finish line EW, Center point. Hooilaan",,
+"TLSP1",TLSP1,NL,5203.600N,00556.300E,74.0m,1,,,,"Startpoint 1, Terlet, restaurant Thermiekbel",,
+"TLSP2",TLSP2,NL,5200.900N,00555.500E,60.0m,1,,,,"Startpoint 2. Viaduct A12-N784 3km N of Arnhem",,
+"TLSP3",TLSP3,NL,5200.300N,00600.100E,17.0m,1,,,,"Startpoint 3. Velp/Rheden, T-junction N785 between towns",,
+"TLSP5",TLSP5,NL,5205.700N,00603.400E,25.0m,1,,,,"Startpoint 5. Eerbeek, roundabout in N786 W of town",,
+"TLSP7",TLSP7,NL,5206.700N,00557.100E,78.0m,1,,,,"Startpoint 7. Woeste Hoeve, wild viaduct A50",,
+"TWFPE",TWFPE,NL,5215.900N,00653.800E,35.0m,1,,,,"Finish line East. Center at begin of runway 29",,
+"TWFPW",TWFPW,NL,5216.200N,00652.400E,27.0m,1,,,,"Finish line West. Center at crossing RW06 and RW11",,
+"TWRPNW",TWRPNW,NL,5222.400N,00645.900E,17.0m,1,,,,"Reporting point NW. Albergen, church tower",,
+"TWRPSW",TWRPSW,NL,5212.600N,00644.500E,23.0m,1,,,,"Reporting point SW. Beckum, church tower",,
+"TWSP1",TWSP1,NL,5216.300N,00653.400E,34.0m,1,,,,"Startpoint 1, EHTW center of Airfield",,
+"TWSP2",TWSP2,NL,5217.500N,00651.300E,25.0m,1,,,,"Startpoint 2. 3,3km NW of EHTW",,
+"TWSP3",TWSP3,NL,5217.500N,00655.400E,38.0m,1,,,,"Startpoint 3. 3,2km NE of EHTW",,
+"TWSP4",TWSP4,NL,5215.100N,00651.300E,28.0m,1,,,,"Startpoint 4. 3,3km SW of EHTW",,
+"TWSP5",TWSP5,NL,5215.100N,00655.400E,47.0m,1,,,,"Startpoint 5. 3,2km SE of EHTW",,
+"Uddel",UDDEL,NL,5214.800N,00545.100E,29.0m,1,,,,"Junction of N302-N310",,
+"Vaassen",Tgaf4,NL,5217.150N,00557.933E,0.0m,1,,,,"Afvliegpunt 4",,
+"Varsseveld",VARSSE,NL,5156.800N,00626.300E,19.0m,1,,,,"019 Viaduct over A18, 2km W of town",,"N103E006_019fotoJPG.jpg;N103E006_019mapJPG.jpg"
+"Veenendaal",VEENEN,NL,5202.500N,00533.300E,8.0m,1,,,,"097 Viaduct A12-N233",,"N104E005_097fotoJPG.jpg;N104E005_097mapJPG.jpg"
+"VELU1 TP",VELU1 TP,NL,5215.000N,00545.000E,27.0m,1,,,,"Turn Point",,
+"VELU2 TP",VELU2 TP,NL,5223.000N,00554.000E,35.0m,1,,,,"Turn Point",,
+"VELU3 TP",VELU3 TP,NL,5200.000N,00545.000E,27.0m,1,,,,"Turn Point",,
+"Venlo Railway",VENLOR,NL,5122.200N,00609.600E,20.0m,1,,,,"084 Railway bridge over river, W bank",,"N102E006_084fotoJPG.jpg;N102E006_084mapJPG.jpg"
+"Vianen",VIANEN,NL,5158.600N,00506.200E,7.0m,1,,,,"075 Viaduct A2-A27",,"N103E005_075fotoJPG.jpg;N103E005_075mapJPG.jpg"
+"Vriezenveen",VRIEZE,NL,5224.900N,00638.000E,9.0m,1,,,,"Viaduct N36 in town",,
+"VROOMSHOOP",VRMSHOOP,NL,5227.283N,00634.317E,4.0m,1,,,,"Oplijnpunt Oost",,
+"Vught",VUGHT,NL,5139.900N,00518.000E,7.0m,1,,,,"063 Viaduct A65-N2",,"N103E005_063fotoJPG.jpg;N103E005_063mapJPG.jpg"
+"Weisweil KT",WISKT,NL,5050.367N,00619.500E,140.0m,11,,,,"Koeltoren",,
+"Well",WELL,NL,5132.900N,00606.000E,14.0m,1,,,,"086 River bridge N270, N bank",,"N103E006_086fotoJPG.jpg;N103E006_086mapJPG.jpg"
+"Wenum",Tgaa1,NL,5215.266N,00557.833E,0.0m,1,,,,"Aanvliegpunt 1",,
+"Wijchen",WYCHEN,NL,5148.900N,00540.800E,12.0m,1,,,,"025 Viaduct A50-A326",,"N103E005_025fotoJPG.jpg;N103E005_025mapJPG.jpg"
+"WILDS WX",WILDS WX,NL,5254.900N,00826.117E,100.0m,17,,,,"Turn Point",,
+"Witte Paal",WITTEP,NL,5233.300N,00632.200E,10.0m,1,,,,"005 Junction of N34-N36",,"N105E006_005fotoJPG.jpg;N105E006_005mapJPG.jpg"
+"Wolvega",WOLVEG,NL,5252.900N,00601.500E,2.0m,1,,,,"Viaduct A32-N351",,
+"wxamfrta1",WXAMFTA1,NL,5212.500N,00521.917E,0.0m,17,,,,"Turn Point",,
+"wxhoevela1",WXHOELA1,NL,5210.517N,00525.717E,8.0m,17,,,,"Turn Point",,
+"wxutra12",WXUTRA12,NL,5203.300N,00508.683E,3.0m,17,,,,"Turn Point, A12",,
+"Zendmast Haren",Zendhren,NL,5148.617N,00535.700E,20.0m,1,,,,,,
+"ZES1 OL6",Z1OL6,NL,5201.000N,00524.900E,14.0m,1,,,,,,
+"ZES2 OL6",Z2OL6,NL,5153.900N,00515.600E,3.0m,1,,,,,,
+"ZES3 OL6",Z3OL6,NL,5147.600N,00515.500E,4.0m,1,,,,,,
+"ZES4 OL6",Z4OL6,NL,5144.900N,00523.800E,1.0m,1,,,,,,
+"ZES5 OL6",Z5OL6,NL,5150.500N,00529.700E,3.0m,1,,,,,,
+"ZES6 OL6",Z6OL6,NL,5153.800N,00518.000E,4.0m,1,,,,,,
+"Zevenaar",ZEVENA,NL,5154.800N,00608.500E,12.0m,1,,,,"Viaduct of highway junction A12-A18",,
+"Zonzeel",ZONZEE,NL,5138.700N,00441.500E,0.0m,1,,,,"078 Viaduct A16-A59",,"N103E004_078fotoJPG.jpg;N103E004_078mapJPG.jpg"
+"Zutphen",ZUTPHE,NL,5208.600N,00611.300E,6.0m,1,,,,"058 Railway bridge over river, E bank",,"N104E006_058fotoJPG.jpg;N104E006_058mapJPG.jpg"
+"Zweeloo",ZWEELO,NL,5248.200N,00643.900E,18.0m,1,,,,"Viaduct of junction N381-N854",,
+"Zwolle",ZWOLLE,NL,5230.000N,00603.300E,1.0m,1,,,,"002 River bridge A28, E bank",,"N105E006_002FotoJPG.jpg;N105E006_002mapJPG.jpg"
+-----Related Tasks-----

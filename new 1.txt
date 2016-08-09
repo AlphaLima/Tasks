@@ -1,0 +1,15 @@
+sudo update
+sudo upgrade
+# Version downloaden
+wget https://github.com/mutability/dump1090/releases/download/v1.10.3010.14mu-12/dump1090-mutability_1.10.3010.14mu-12_armhf.deb     
+# Laufenden Server stopen
+sudo /etc/init.d/dump1090-mutability stop
+# Version installieren
+sudo dpkg -i dump1090-mutability_1.10.3010.14mu-12_armhf.deb
+# Es erscheint eine Frage nach dem maximalen Bereich in nautische Meilen Eingab z.B.
+200
+# Checken ob der Server läuft
+sudo /etc/init.d/dump1090-mutability status
+# Ausgabe: [ ok ] dump1090-mutability is running.
+# Archive kann gelöscht werden
+rm dump1090-mutability_1.10.3010.14mu-11_armhf.deb
