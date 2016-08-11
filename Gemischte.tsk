@@ -1,31 +1,19 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="006 AP05 Globus Parkplatz" id="0" comment="" altitude="131.0">
-      <Location longitude="8.1622167" latitude="49.34055"/>
+    <Waypoint name="003 AP02 Freefall Tower" id="0" comment="" altitude="112.0">
+      <Location longitude="8.2983333" latitude="49.3183333"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="072 Kirchheimbol" id="0" comment="" altitude="269.0">
-      <Location longitude="8.0188833" latitude="49.66305"/>
+    <Waypoint name="030 Buchen" id="0" comment="" altitude="346.0">
+      <Location longitude="9.3283333" latitude="49.5247167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="080 LandauEbenberg" id="0" comment="" altitude="160.0">
-      <Location longitude="8.1361167" latitude="49.1763833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="135 Weinheim" id="0" comment="" altitude="97.0">
-      <Location longitude="8.6111167" latitude="49.5675"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="029 Bruchsal" id="0" comment="" altitude="115.0">
-      <Location longitude="8.555" latitude="49.14"/>
+    <Waypoint name="131 Voelkeshofen" id="0" comment="" altitude="395.0">
+      <Location longitude="9.3563833" latitude="49.00805"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
