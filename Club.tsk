@@ -1,19 +1,25 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="005 AP04 Deidesheimer Hof" id="0" comment="" altitude="120.0">
-      <Location longitude="8.1875" latitude="49.40805"/>
+    <Waypoint name="002 AP01 Hambacher Schloss" id="0" comment="" altitude="330.0">
+      <Location longitude="8.1183333" latitude="49.3247167"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="090 Moeckmuehl" id="0" comment="" altitude="339.0">
-      <Location longitude="9.4025" latitude="49.3438833"/>
+    <Waypoint name="141 Worms" id="0" comment="" altitude="91.0">
+      <Location longitude="8.36695" latitude="49.6063833"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="131 Voelkeshofen" id="0" comment="" altitude="395.0">
-      <Location longitude="9.3563833" latitude="49.00805"/>
+    <Waypoint name="120 Schweigen" id="0" comment="" altitude="130.0">
+      <Location longitude="7.9563833" latitude="49.05195"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="015 BadDuerkheim" id="0" comment="" altitude="105.0">
+      <Location longitude="8.1972167" latitude="49.4741667"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
