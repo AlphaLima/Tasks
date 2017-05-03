@@ -1,19 +1,19 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="002SP Hahnenberg" id="0" comment="" altitude="167.0">
-      <Location longitude="14.4188833" latitude="51.28805"/>
+    <Waypoint name="004SP Olbasee" id="0" comment="" altitude="142.0">
+      <Location longitude="14.5913833" latitude="51.2713833"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="269Marienberg" id="0" comment="" altitude="614.0">
-      <Location longitude="13.1572167" latitude="50.6525"/>
+    <Waypoint name="326Pozna" id="0" comment="" altitude="65.0">
+      <Location longitude="14.6058333" latitude="51.8461167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="222Krasna Lipa Nadrazi" id="0" comment="" altitude="456.0">
-      <Location longitude="14.51195" latitude="50.9063833"/>
+    <Waypoint name="064Casel" id="0" comment="" altitude="82.0">
+      <Location longitude="14.1622167" latitude="51.67"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>

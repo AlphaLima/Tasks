@@ -1,25 +1,19 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="006SP Staumauer" id="0" comment="" altitude="170.0">
-      <Location longitude="14.4616667" latitude="51.2258333"/>
+    <Waypoint name="013CP Uhyst" id="0" comment="" altitude="133.0">
+      <Location longitude="14.5136167" latitude="51.36445"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="367Seyda" id="0" comment="" altitude="670.0">
-      <Location longitude="13.4202833" latitude="50.71305"/>
+    <Waypoint name="114Forst" id="0" comment="" altitude="84.0">
+      <Location longitude="14.6083333" latitude="51.7122167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="190Jedlova Top" id="0" comment="" altitude="774.0">
-      <Location longitude="14.5575" latitude="50.8563833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="012CP Neschwitz" id="0" comment="" altitude="149.0">
-      <Location longitude="14.3288833" latitude="51.2722167"/>
+    <Waypoint name="054Bronkow" id="0" comment="" altitude="141.0">
+      <Location longitude="13.91195" latitude="51.6636167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
