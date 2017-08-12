@@ -1,33 +1,33 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+<Task type="AAT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="005Dobersberg" id="0" comment="" altitude="524.0">
-      <Location longitude="15.29695" latitude="48.9222167"/>
+    <Waypoint name="046Riegers Sender" id="0" comment="" altitude="559.0">
+      <Location longitude="15.33055" latitude="48.8991667"/>
     </Waypoint>
     <ObservationZone type="Line" length="20000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="109Netolice Nadrazi" id="0" comment="" altitude="481.0">
-      <Location longitude="14.19" latitude="49.05445"/>
+  <Point type="Area">
+    <Waypoint name="022Haugschlag" id="0" comment="" altitude="585.0">
+      <Location longitude="15.0588833" latitude="48.9988833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="091Jiricky Ul" id="0" comment="" altitude="496.0">
-      <Location longitude="15.2" latitude="49.5561167"/>
+  <Point type="Area">
+    <Waypoint name="043Pulkau" id="0" comment="" altitude="273.0">
+      <Location longitude="15.86445" latitude="48.70945"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="29000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="134Sumna" id="0" comment="" altitude="435.0">
-      <Location longitude="15.8741667" latitude="48.92305"/>
+  <Point type="Area">
+    <Waypoint name="022Haugschlag" id="0" comment="" altitude="585.0">
+      <Location longitude="15.0588833" latitude="48.9988833"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="10000.0"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="005Dobersberg" id="0" comment="" altitude="524.0">
-      <Location longitude="15.29695" latitude="48.9222167"/>
+  <Point type="Area">
+    <Waypoint name="043Pulkau" id="0" comment="" altitude="273.0">
+      <Location longitude="15.86445" latitude="48.70945"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="500.0"/>
+    <ObservationZone type="Cylinder" radius="29000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="005Dobersberg" id="0" comment="" altitude="524.0">
