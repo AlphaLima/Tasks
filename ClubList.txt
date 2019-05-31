@@ -1,15 +1,15 @@
 ID,CALL,CN,TYPE
-06DDA4F2,D-7655,Braf  Tobias,H3,ASW19
-06DDA7C7,D-2745,Burmeester  Ralf,7A,LS1f
-0       ,D-1541,Mobers  Robin,YK,ASK 23b
-06DD8E27,D-0670,Stelzer  Marius,M,LS1d
-06DDA569,D-3695,Ohligs  Schiffer  Friedrich,JG,Twin 3
-06DDA463,D-2991,Hanßen  Mannhaupt,POT,ASK 21
-06DDB594,D-KMLI,Rommelaere  Hupperten  Rommelaere,PR,Twin3 SL 20 
-06DD823E,D-5125,van Plüren  Jansen  Bülter,SI,ASK21
-0       ,D-6751,Schubert  Kalivoda,FFM,Twin Astir Trainer
-0       ,D-7708,Müller-Forte  Kabakcioglu  Schulz  Sidki,1B,ASK21
-06DDA80E,D-1065,Witt  Marla,V7,LS1c
+06DDA4F2,D-7655,Braf Tobias,H3,ASW19
+06DDA7C7,D-2745,Burmeester Ralf,7A,LS1f
+0       ,D-1541,Mobers Robin,YK,ASK 23b
+06DD8E27,D-0670,Stelzer Marius,M,LS1d
+06DDA569,D-3695,Ohligs Schiffer  Friedrich,JG,Twin 3
+06DDA463,D-2991,Hanßen Mannhaupt,POT,ASK 21
+06DDB594,D-KMLI,Rommelaere Hupperten  Rommelaere,PR,Twin3 SL 20 
+06DD823E,D-5125,van Plüren Jansen  Bülter,SI,ASK21
+0       ,D-6751,Schubert Kalivoda,FFM,Twin Astir Trainer
+0       ,D-7708,Müller-Forte Kabakcioglu  Schulz  Sidki,1B,ASK21
+06DDA80E,D-1065,Witt Marla,V7,LS1c
 
 
 
