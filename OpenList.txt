@@ -1,7 +1,7 @@
 ID,CALL,CN,TYPE
 06DDFE1E,D-KANN,NN Fecker Ranko & Sonja,Arcus M 
 0       ,D-3127,67 Gerte Conrad,ASW 27
-0       ,D-KPSP,SP Hanisch Frederic,ASG 29Es 18m 
+053EC56F,D-KPSP,SP Hanisch Frederic,ASG 29Es 18m 
 06DD8377,D-KAYV,HX Kemmerling Lutz,Ventus bt 
 0       ,D-KTAK,K Niedzielski David,ASG 29E   18m 
 06DF0DC4,D-9972,72 Geier Fecker,Duo Discus X
