@@ -20,6 +20,6 @@ ID,CALL,CN,TYPE
 06DD82B7,D-1698,6W Welter Bickenbach,LS8 
 06DDF0A3,D-9210,10 Schmitz Stach  Herrmann,DG1000S
 06DD8729,D-KKDU,DU Holthausen König  Mischo,Duo-DiscusT 
-06DDDC35,D-3903,1X Ueddinger Maike,LS7 WL
+06DDDC35,D-3903,1X Ueddinger Maike,LS8 WL
 06DDDC36,D-1232,1Y Velmans Jan,LS4
 053EEA38,D-2465,8M Westphäling Maximilian,ASW 24
