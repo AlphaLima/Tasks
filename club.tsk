@@ -1,0 +1,27 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="003KAPPESA2" id="0" comment="" altitude="25.0">
+      <Location longitude="6.5922167" latitude="51.46"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Borken-Hoxfeld" id="0" comment="" altitude="47.0">
+      <Location longitude="6.8148333" latitude="51.8533333"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="140Haltern Hohe Mark" id="0" comment="" altitude="143.0">
+      <Location longitude="7.1177833" latitude="51.76555"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Krefeld-Egelsberg" id="0" comment="" altitude="42.0">
+      <Location longitude="6.5876667" latitude="51.385"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
