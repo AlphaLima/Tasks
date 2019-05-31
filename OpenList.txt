@@ -1,0 +1,12 @@
+ID,CALL,CN,TYPE
+06DDFE1E,D-KANN,Fecker  Ranko & Sonja,NN,Arcus M 
+0       ,D-3127,Gerte  Conrad,67,ASW 27
+0       ,D-KPSP,Hanisch  Frederic,SP,ASG 29Es 18m 
+06DD8377,D-KAYV,Kemmerling  Lutz,HX,Ventus bt 
+0       ,D-KTAK,Niedzielski David,K,ASG 29E   18m 
+06DF0DC4,D-9972,Geier  Fecker,72,Duo Discus X
+06DDA56B,D-KIGH,van de Sandt  Vehreschild  Genthe  Erkkila,GH,ASH25 M
+0       ,D-KOLA,Hennig  Sparkuhle,LA,ASH 25e
+06DF13FB,D-KFHD,Sparkuhle  Storm,TC	,ASH 26e 
+06D00517,D-KAXF,Tittgen  Francis,XF,ASW 28-18E
+
