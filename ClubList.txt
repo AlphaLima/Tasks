@@ -1,7 +1,7 @@
 ID,CALL,CN,TYPE
-06DDA4F2,D-7655,H3 Braf Tobias,ASW19
-06DDA7C7,D-2745,7A Burmeester Ralf,LS1f
-0       ,D-1541,YK Mobers Robin,ASK 23b
+06DDA4F2,D-7655,H3, Braf Tobias,ASW19
+06DDA7C7,D-2745,7A, Burmeester Ralf,LS1f
+0       ,D-1541,YK, Mobers Robin,ASK 23b
 06DD8E27,D-0670,M Stelzer Marius,LS1d
 06DDA569,D-3695,JG Ohligs Schiffer  Friedrich,Twin 3
 06DDA463,D-2991,POT  Hanßen Mannhaupt,ASK 21
