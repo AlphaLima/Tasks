@@ -18,7 +18,7 @@ ID,CALL,CN,TYPE
 0     ,D-KTDG,Knappmann  Uhlrich,DG,DG 400
 06DD861B,D-9395,Bickenbach  Welter  Dworaczek  Klein,8W,Janus Ce 
 06DD82B7,D-1698,Welter  Bickenbach,6W,LS8 
-06DDF0A3,,D-9210,Schmitz  Stach  Herrmann,10,DG 1000S
+06DDF0A3,D-9210,Schmitz  Stach  Herrmann,10,DG 1000S
 06DD8729,D-KKDU,Holthausen  König  Mischo,DU,Duo-Discus T 
 0     ,D-3903,Ueddinger  Maike,1X,LS7 WL
 0     ,D-1232,Velmans  Jan,1Y,LS4
