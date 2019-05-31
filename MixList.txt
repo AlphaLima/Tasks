@@ -1,27 +1,28 @@
 ID,CALL,CN,TYPE
-0      ,D-8266,Angenendt Timo,66,Discus 2b
-0      ,D-6192,Barzen  Robin,XA,LS7 
-0      ,D-3557,Florian  Dirk,2W,LS4
-06DDDDE4,D-4367,Günther  Jakob Felix,TZ,LS8 15m
-06DD84B0,D-0326,Heckmann  Hendrik,26,Discus CS WL 
-06DD8651,D-7044,Klomps  Jan,U8,LS4
-06DDDC35,D-6384,Radau  Stephan,1S,LS8-15
-06DDAE9F,D-9041,Quitter  Quirein,YD,Duo Discus WL
-06DD8D95,D-8710,Vietoris  Vietoris  Meertz,HK,DG1000
-06DD84F3,D-8924,Bülter  Hermanns,PZ,DG 300 WL 
-0     ,D-0018,LSV Dorsten,AS,Duo Discus
-0     ,D-5826,LSV Dorsten,JS,LS8 
-06DDA6B4,D-1392,Rosema  Hermanns,C,LS4
-0     ,D-4239,van de Ven  Müllers,EG,Ventus 2 b
-0     ,D-0462,Pick  Linkenbach,1T,DG 505 
-0     ,D-KLDG,Schumacher  Peil,1V,DG 1001t 
-0     ,D-KTDG,Knappmann  Uhlrich,DG,DG 400
-06DD861B,D-9395,Bickenbach  Welter  Dworaczek  Klein,8W,Janus Ce 
-06DD82B7,D-1698,Welter  Bickenbach,6W,LS8 
-06DDF0A3,D-9210,Schmitz  Stach  Herrmann,10,DG 1000S
-06DD8729,D-KKDU,Holthausen  König  Mischo,DU,Duo-Discus T 
-0     ,D-3903,Ueddinger  Maike,1X,LS7 WL
-0     ,D-1232,Velmans  Jan,1Y,LS4
-053EEA38,D-2465,Westphäling  Maximilian,8M,ASW 24
+0       ,D-8266,Angenendt Timo,66,Discus 2b
+0       ,D-6192,Barzen Robin,XA,LS7 
+0       ,D-3557,Florian Dirk,2W,LS4
+06DDDDE4,D-4367,Günther Jakob Felix,TZ,LS8 15m
+06DD84B0,D-0326,Heckmann Hendrik,26,Discus CS WL 
+06DD8651,D-7044,Klomps Jan,U8,LS4
+06DDDC35,D-6384,Radau Stephan,1S,LS8-15
+06DDAE9F,D-9041,Quitter Quirein,YD,Duo Discus WL
+06DD8D95,D-8710,Vietoris Vietoris  Meertz,HK,DG1000
+06DD84F3,D-8924,Bülter Hermanns,PZ,DG 300 WL 
+0       ,D-0018,LSV Dorsten,AS,Duo Discus
+0       ,D-5826,LSV Dorsten,JS,LS8 
+06DDA6B4,D-1392,Rosema Hermanns,C,LS4
+0       ,D-4239,van de Ven Müllers,EG,Ventus 2 b
+0       ,D-0462,Pick Linkenbach,1T,DG 505 
+0       ,D-KLDG,Schumacher Peil,1V,DG 1001t 
+0       ,D-KTDG,Knappmann Uhlrich,DG,DG 400
+06DD861B,D-9395,Bickenbach Welter Dworaczek Klein,8W,Janus Ce 
+06DD82B7,D-1698,Welter Bickenbach,6W,LS8 
+06DDF0A3,D-9210,Schmitz Stach  Herrmann,10,DG 1000S
+06DD8729,D-KKDU,Holthausen König  Mischo,DU,Duo-Discus T 
+0       ,D-3903,Ueddinger Maike,1X,LS7 WL
+0       ,D-1232,Velmans Jan,1Y,LS4
+053EEA38,D-2465,Westphäling Maximilian,8M,ASW 24
+
 
 
