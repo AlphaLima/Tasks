@@ -4,8 +4,8 @@ ID,CALL,CN,TYPE
 0       ,D-1541,YK Mobers Robin,ASK 23b
 06DD8E27,D-0670,M Stelzer Marius,LS1d
 06DDA569,D-3695,JG Ohligs Schiffer  Friedrich,Twin 3
-06DDA463,D-2991,POT, Hanßen Mannhaupt,ASK 21
-06DDB594,D-KMLI,PR,Rommelaere Hupperten  Rommelaere,Twin3 SL 20 
+06DDA463,D-2991,POT  Hanßen Mannhaupt,ASK 21
+06DDB594,D-KMLI,PR Rommelaere Hupperten  Rommelaere,Twin3 SL 20 
 06DD823E,D-5125,SI van Plüren Jansen  Bülter,ASK21
 0       ,D-6751,FFM Schubert Kalivoda,Twin Astir Trainer
 0       ,D-7708,1B Müller-Forte Kabakcioglu  Schulz  Sidki,ASK21
