@@ -1,0 +1,33 @@
+<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
+  <Point type="Start">
+    <Waypoint name="003KAPPESA2" id="0" comment="" altitude="25.0">
+      <Location longitude="6.5922167" latitude="51.46"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="20000.0"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="012Ahaus Bf" id="0" comment="" altitude="0.0">
+      <Location longitude="7.0166667" latitude="52.0813833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="359Luedinghausen" id="0" comment="" altitude="52.0">
+      <Location longitude="7.4397167" latitude="51.76695"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Dinslaken/Schwarze Heide" id="0" comment="" altitude="64.0">
+      <Location longitude="6.8611667" latitude="51.616"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Krefeld-Egelsberg" id="0" comment="" altitude="42.0">
+      <Location longitude="6.5876667" latitude="51.385"/>
+    </Waypoint>
+    <ObservationZone type="Line" length="1000.0"/>
+  </Point>
+</Task>
+
