@@ -3,11 +3,17 @@
     <Waypoint name="003KAPPESA2" id="0" comment="" altitude="25.0">
       <Location longitude="6.5922167" latitude="51.46"/>
     </Waypoint>
-    <ObservationZone type="Line" length="20000.0"/>
+    <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Gemen-Kirchspiel (Borken) UL" id="0" comment="" altitude="49.0">
-      <Location longitude="6.8552833" latitude="51.8788833"/>
+    <Waypoint name="Dorsten am Kanal" id="0" comment="" altitude="35.0">
+      <Location longitude="6.985" latitude="51.6616667"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Oerlinghausen" id="0" comment="" altitude="173.0">
+      <Location longitude="8.662" latitude="51.9325"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -17,17 +23,10 @@
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Turn">
-    <Waypoint name="Dinslaken/Schwarze Heide" id="0" comment="" altitude="64.0">
-      <Location longitude="6.8611667" latitude="51.616"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
   <Point type="Finish">
     <Waypoint name="Krefeld-Egelsberg" id="0" comment="" altitude="42.0">
       <Location longitude="6.5876667" latitude="51.385"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="4000.0"/>
+    <ObservationZone type="Line" length="1000.0"/>
   </Point>
 </Task>
-
