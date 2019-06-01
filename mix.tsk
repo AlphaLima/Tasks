@@ -27,6 +27,6 @@
     <Waypoint name="Krefeld-Egelsberg" id="0" comment="" altitude="42.0">
       <Location longitude="6.5876667" latitude="51.385"/>
     </Waypoint>
-    <ObservationZone type="Line" length="1000.0"/>
+    <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
