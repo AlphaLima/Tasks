@@ -1,6 +1,6 @@
 ID,CALL,CN,TYPE
 00DDA4F2,D-7655,H3 Braf Tobias,ASW19
 00DD8264,D-2982,CU Remy Peter,ASW15b 
-0       ,D-2688,WY Steffen Benjamin,ASW19b 
+00DDB4D8,D-2688,WY Steffen Benjamin,ASW19b 
 00DD823E,D-5125,SI van Plüren Jansen  Bülter,ASK21
 
