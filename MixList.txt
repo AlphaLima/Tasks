@@ -9,5 +9,5 @@ ID,CALL,CN,TYPE
 00DD8651,D-7044,U8 Klomps Jan,LS4
 00DF1260,D-1123,G3 Küppers Christian,LS4WL
 00DDED0E,D-2435,ZK Rekitt Philipp,LS8
-0       ,D-9352,SZ Schnettler Thomas,DG300
+00DD9622,D-9352,SZ Schnettler Thomas,DG300
 003EEA38,D-2465,8M Westphäling Maximilian,ASW 24
