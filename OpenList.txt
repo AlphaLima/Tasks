@@ -4,5 +4,3 @@ ID,CALL,CN,TYPE
 0       ,D-KAYW,HX Kemmerling Lutz,Ventus bt
 0       ,D-KBKI,KI Stark/Isegrei,Arcus M 
 00D00517,D-KAXF,XF Tittgen Francis,ASW 28-18E
-
-
