@@ -1,21 +1,9 @@
 <Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
   <Point type="Start">
-    <Waypoint name="003KAPPESA2" id="0" comment="" altitude="25.0">
-      <Location longitude="6.5922167" latitude="51.46"/>
+    <Waypoint name="Goch-Asperden" id="0" comment="" altitude="15.0">
+      <Location longitude="6.1041667" latitude="51.6908333"/>
     </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="361Schuettdorf" id="0" comment="" altitude="32.0">
-      <Location longitude="7.2302833" latitude="52.3213833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="074Cloppenburg Pfanni" id="0" comment="" altitude="33.0">
-      <Location longitude="8.045" latitude="52.84695"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Line" length="20000.0"/>
   </Point>
   <Point type="Turn">
     <Waypoint name="258Ochtrup Bf" id="0" comment="" altitude="0.0">
@@ -23,11 +11,22 @@
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
-  <Point type="Finish">
-    <Waypoint name="Krefeld-Egelsberg" id="0" comment="" altitude="42.0">
-      <Location longitude="6.5876667" latitude="51.385"/>
+  <Point type="Turn">
+    <Waypoint name="Melle-Grönegau" id="0" comment="" altitude="71.0">
+      <Location longitude="8.3776667" latitude="52.2008333"/>
     </Waypoint>
-    <ObservationZone type="Cylinder" radius="4000.0"/>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Drensteinfurt UL" id="0" comment="" altitude="70.0">
+      <Location longitude="7.74695" latitude="51.7672167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Finish">
+    <Waypoint name="Goch-Asperden" id="0" comment="" altitude="15.0">
+      <Location longitude="6.1041667" latitude="51.6908333"/>
+    </Waypoint>
+    <ObservationZone type="Cylinder" radius="3000.0"/>
   </Point>
 </Task>
-
