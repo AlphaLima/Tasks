@@ -2,7 +2,7 @@ ID,CALL,CN,TYPE
 0       ,D-8266,66 Angenendt Timo,Discus 2b
 00DD826E,D-6192,XA Barzen Robin,LS7 
 003EEA38,D-2465,8M Westphäling Maximilian,ASW 24
-00DDAA94,D-3331,IM,Bülter/Bongartz,DuoDiscus
+00DDAA94,D-3331,IM Bülter/Bongartz,DuoDiscus
 00DD84B0,D-0326,26 Heckmann Hendrik,Discus CS WL 
 00DDA6B4,D-1392,C Rosema/Hermanns,LS4
 00DDD802,D-4358,G5 Kersten/Kersten,Janus C
