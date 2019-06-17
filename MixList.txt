@@ -1,25 +1,13 @@
 ID,CALL,CN,TYPE
 0       ,D-8266,66 Angenendt Timo,Discus 2b
-06DD826E,D-6192,XA Barzen Robin,LS7 
-06DD8217,D-3557,2W Florian Dirk,LS4
-06DDDDE4,D-4367,TZ Günther Jakob Felix,LS8 15m
-06DD84B0,D-0326,26 Heckmann Hendrik,Discus CS WL 
-06DD8651,D-7044,U8 Klomps Jan,LS4
-06DDDC35,D-6384,1S Radau Stephan,LS8-15
-06DDAE9F,D-9041,YD Quitter Quirein,Duo Discus WL
-06DD8D95,D-8710,HK Vietoris Vietoris  Meertz,DG1000
-06DD84F3,D-8924,PZ Bülter Hermanns,DG 300 WL 
-0       ,D-0018,AS LSV Dorsten,Duo Discus
-0       ,D-5826,JS LSV Dorsten,LS8 
-06DDA6B4,D-1392,C Rosema Hermanns,LS4
-0       ,D-4239,EG van de Ven Müllers,Ventus 2 b
-053EF163,D-0462,1T Pick Linkenbach,DG 505 
-0       ,D-KLDG,1V Schumacher Peil,DG 1001t 
-06DDE00D,D-KTDG,DG Knappmann Uhlrich,DG 400
-06DD861B,D-9395,8W Bickenbach Welter Dworaczek Klein,Janus Ce 
-06DD82B7,D-1698,6W Welter Bickenbach,LS8 
-06DDF0A3,D-9210,10 Schmitz Stach  Herrmann,DG1000S
-06DD8729,D-KKDU,DU Holthausen König  Mischo,Duo-DiscusT 
-06DDDC35,D-3903,1X Ueddinger Maike,LS8 WL
-06DDDC36,D-1232,1Y Velmans Jan,LS4
-053EEA38,D-2465,8M Westphäling Maximilian,ASW 24
+00DD826E,D-6192,XA Barzen Robin,LS7 
+003EEA38,D-2465,8M Westphäling Maximilian,ASW 24
+00DDAA94,D-3331,IM,Bülter/Bongartz,DuoDiscus
+00DD84B0,D-0326,26 Heckmann Hendrik,Discus CS WL 
+00DDA6B4,D-1392,C Rosema/Hermanns,LS4
+00DDD802,D-4358,G5 Kersten/Kersten,Janus C
+00DD8651,D-7044,U8 Klomps Jan,LS4
+00DF1260,D-1123,G3 Küppers Christian,LS4WL
+00DDED0E,D-2435,ZK Rekitt Philipp,LS8
+0       ,D-9352,SZ Schnettler Thomas,DG300
+003EEA38,D-2465,8M Westphäling Maximilian,ASW 24
