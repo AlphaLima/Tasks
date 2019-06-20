@@ -1,5 +1,5 @@
 ID,CALL,CN,TYPE
-0       ,D-8266,66 Angenendt Timo,Discus 2b
+003F00E1,D-8266,66 Angenendt Timo,Discus 2b
 00DD826E,D-6192,XA Barzen Robin,LS7 
 003EEA38,D-2465,8M Westphäling Maximilian,ASW 24
 00DDAA94,D-3331,IM Bülter/Bongartz,DuoDiscus
