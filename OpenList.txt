@@ -1,6 +1,7 @@
 ID,CALL,CN,TYPE
 00DDDEBB,D-KUBA,2C Biesters Hans,ASG-29E
 00484F8A,D-KOLA,LA Hennig  Sparkuhle,ASH25e
+003EC206,D-KOLA,LA Hennig  Sparkuhle,ASH25e
 00DD8377,D-KAYV,HX Kemmerling Lutz,Ventus bt
 003E5FA0,D-KBKI,KI Stark/Isegrei,Arcus M 
 00D00517,D-KAXF,XF Tittgen Francis,ASW 28-18E
