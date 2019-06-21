@@ -1,15 +1,12 @@
 ID,CALL,CN,TYPE
 053F00E1,D-8266,66 Angenendt Timo,Discus 2b
-06DD826E,D-6192,XA Barzen Robin,LS7 
 053EEA38,D-2465,8M Westphäling Maximilian,ASW 24
 06DDAA94,D-3331,IM Bülter/Bongartz,DuoDiscus
-06DD84B0,D-0326,26 Heckmann Hendrik,Discus CS WL 
 06DDA6B4,D-1392,C Rosema/Hermanns,LS4
 06DF13CE,D-4358,G5 Kersten/Kersten,Janus C
 06DD8651,D-7044,U8 Klomps Jan,LS4
 06DF1260,D-1123,G3 Küppers Christian,LS4WL
 06DDED0E,D-2435,ZK Rekitt Philipp,LS8
 06DD8676,D-8040,40 Schnettler/Maeser,DG500
-06DDA4F2,D-7655,H3 Braf Tobias,ASW19
 06DD8264,D-2982,CU Remy Peter,ASW15b 
 06DD823E,D-5125,SI van Plüren/Jansen/Vehreschild ,ASK21
