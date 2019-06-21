@@ -6,14 +6,32 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Gemen-Kirchspiel (Borken) UL" id="0" comment="" altitude="49.0">
-      <Location longitude="6.8552833" latitude="51.8788833"/>
+    <Waypoint name="342Wesel Tv 1122Ft" id="0" comment="" altitude="31.0">
+      <Location longitude="6.57805" latitude="51.6486167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Luedinghausen" id="0" comment="" altitude="52.0">
-      <Location longitude="7.4397167" latitude="51.76695"/>
+    <Waypoint name="355Hinsbeck" id="0" comment="" altitude="0.0">
+      <Location longitude="6.28" latitude="51.33445"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Dahlemer Binz" id="0" comment="" altitude="577.0">
+      <Location longitude="6.529" latitude="50.4056667"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="356Breyell" id="0" comment="" altitude="0.0">
+      <Location longitude="6.2472167" latitude="51.2977833"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="342Wesel Tv 1122Ft" id="0" comment="" altitude="31.0">
+      <Location longitude="6.57805" latitude="51.6486167"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -24,3 +42,4 @@
     <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
+
