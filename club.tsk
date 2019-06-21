@@ -6,14 +6,26 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Bocholt Aasee Br" id="0" comment="" altitude="27.0">
-      <Location longitude="6.6288833" latitude="51.8336167"/>
+    <Waypoint name="Luedinghausen" id="0" comment="" altitude="52.0">
+      <Location longitude="7.4397167" latitude="51.76695"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Wulfen" id="0" comment="" altitude="46.0">
-      <Location longitude="7.0141667" latitude="51.72195"/>
+    <Waypoint name="193Legden Osterwick" id="0" comment="" altitude="112.0">
+      <Location longitude="7.1833333" latitude="52.0186167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Voerde Moellen K" id="0" comment="" altitude="27.0">
+      <Location longitude="6.6852833" latitude="51.5786167"/>
+    </Waypoint>
+    <ObservationZone type="Keyhole"/>
+  </Point>
+  <Point type="Turn">
+    <Waypoint name="Borken-Hoxfeld" id="0" comment="" altitude="47.0">
+      <Location longitude="6.8148333" latitude="51.8533333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -24,7 +36,4 @@
     <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
-
-
-
 
