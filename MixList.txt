@@ -6,7 +6,7 @@ ID,CALL,CN,TYPE
 06DD84B0,D-0326,26 Heckmann Hendrik,Discus CS WL 
 06DDA6B4,D-1392,C Rosema/Hermanns,LS4
 06DDD802,D-4358,G5 Kersten/Kersten,Janus C
-00DD8651,D-7044,U8 Klomps Jan,LS4
+06DD8651,D-7044,U8 Klomps Jan,LS4
 06DF1260,D-1123,G3 Küppers Christian,LS4WL
 06DDED0E,D-2435,ZK Rekitt Philipp,LS8
 06DD8676,D-8040,40 Schnettler/Maeser,DG500
