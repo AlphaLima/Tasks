@@ -1,5 +1,5 @@
 ID,CALL,CN,TYPE
-047969FF,D-KOLA,LA Hennig  Sparkuhle,ASH25e
+05484F8A,D-KOLA,LA Hennig  Sparkuhle,ASH25e
 06DD8377,D-KAYV,HX Kemmerling Lutz,Ventus bt
 053E5FA0,D-KBKI,KI Stark/Isegrei,Arcus M 
 06D00517,D-KAXF,XF Tittgen Francis,ASW 28-18E
