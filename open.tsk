@@ -6,32 +6,20 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="342Wesel Tv 1122Ft" id="0" comment="" altitude="31.0">
-      <Location longitude="6.57805" latitude="51.6486167"/>
+    <Waypoint name="Hardenberg" id="0" comment="" altitude="8.0">
+      <Location longitude="6.62695" latitude="52.5702833"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="355Hinsbeck" id="0" comment="" altitude="0.0">
-      <Location longitude="6.28" latitude="51.33445"/>
+    <Waypoint name="Raesfeld" id="0" comment="" altitude="62.0">
+      <Location longitude="6.83805" latitude="51.76945"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Dahlemer Binz" id="0" comment="" altitude="577.0">
-      <Location longitude="6.529" latitude="50.4056667"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="356Breyell" id="0" comment="" altitude="0.0">
-      <Location longitude="6.2472167" latitude="51.2977833"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="342Wesel Tv 1122Ft" id="0" comment="" altitude="31.0">
-      <Location longitude="6.57805" latitude="51.6486167"/>
+    <Waypoint name="Lemelerveld" id="0" comment="" altitude="0.0">
+      <Location longitude="6.3333333" latitude="52.4683333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
