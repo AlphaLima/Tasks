@@ -6,26 +6,20 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Luedinghausen" id="0" comment="" altitude="52.0">
-      <Location longitude="7.4397167" latitude="51.76695"/>
+    <Waypoint name="Amelo" id="0" comment="" altitude="11.0">
+      <Location longitude="6.6575" latitude="52.3383333"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="193Legden Osterwick" id="0" comment="" altitude="112.0">
-      <Location longitude="7.1833333" latitude="52.0186167"/>
+    <Waypoint name="Raesfeld" id="0" comment="" altitude="62.0">
+      <Location longitude="6.83805" latitude="51.76945"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Voerde Moellen K" id="0" comment="" altitude="27.0">
-      <Location longitude="6.6852833" latitude="51.5786167"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Borken-Hoxfeld" id="0" comment="" altitude="47.0">
-      <Location longitude="6.8148333" latitude="51.8533333"/>
+    <Waypoint name="Zutphen" id="0" comment="" altitude="6.0">
+      <Location longitude="6.2141667" latitude="52.13195"/>
     </Waypoint>
     <ObservationZone type="Keyhole"/>
   </Point>
@@ -36,4 +30,3 @@
     <ObservationZone type="Cylinder" radius="4000.0"/>
   </Point>
 </Task>
-
