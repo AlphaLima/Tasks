@@ -6,22 +6,16 @@
     <ObservationZone type="Line" length="10000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Hardenberg" id="0" comment="" altitude="8.0">
-      <Location longitude="6.62695" latitude="52.5702833"/>
+    <Waypoint name="Luedinghausen" id="0" comment="" altitude="52.0">
+      <Location longitude="7.4397167" latitude="51.76695"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
   <Point type="Turn">
-    <Waypoint name="Raesfeld" id="0" comment="" altitude="62.0">
-      <Location longitude="6.83805" latitude="51.76945"/>
+    <Waypoint name="Zutphen" id="0" comment="" altitude="6.0">
+      <Location longitude="6.2141667" latitude="52.13195"/>
     </Waypoint>
-    <ObservationZone type="Keyhole"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Lemelerveld" id="0" comment="" altitude="0.0">
-      <Location longitude="6.3333333" latitude="52.4683333"/>
-    </Waypoint>
-    <ObservationZone type="Keyhole"/>
+    <ObservationZone type="Cylinder" radius="25000.0"/>
   </Point>
   <Point type="Finish">
     <Waypoint name="Goch-Asperden" id="0" comment="" altitude="15.0">
