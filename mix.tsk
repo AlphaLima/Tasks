@@ -1,23 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<lk-task type="AAT">
-	<options auto-advance="Auto" length="180.000000">
-		<rules>
-			<finish fai-height="false" min-height="0"/>
-			<start max-height="0" max-height-margin="0" max-speed="0" max-speed-margin="0" height-ref="AGL"/>
-		</rules>
-	</options>
-	<taskpoints>
-		<point idx="0" name="Wendepunkt" type="line" radius="5000.000000" lock="false" offset-radius="0.000000" offset-radial="0.000000"/>
-		<point idx="1" name="Borken Bf" type="circle" radius="3000.000000" lock="false" offset-radius="0.000000" offset-radial="0.000000"/>
-		<point idx="2" name="Ahaus Legden A31" type="circle" radius="10000.000000" lock="false" offset-radius="0.000000" offset-radial="0.000000"/>
-		<point idx="3" name="Haltern Nordwest TV" type="circle" radius="15000.000000" lock="false" offset-radius="0.000000" offset-radial="0.000000"/>
-		<point idx="4" name="Goch-Asperden" type="circle" radius="4000.000000" lock="false" offset-radius="0.000000" offset-radial="0.000000"/>
-	</taskpoints>
-	<waypoints>
-		<point name="Wendepunkt" latitude="51.740367" longitude="6.082300" altitude="39.000000" flags="2" format="2" style="1"/>
-		<point name="Borken Bf" latitude="51.848500" longitude="6.865767" altitude="48.000000" flags="2" format="2" style="1"/>
-		<point name="Ahaus Legden A31" latitude="52.053117" longitude="7.062500" altitude="69.000000" flags="2" format="2" style="1"/>
-		<point name="Haltern Nordwest TV" latitude="51.765717" longitude="7.117083" altitude="158.000000" flags="2" format="2" style="1"/>
-		<point name="Goch-Asperden" latitude="51.690867" longitude="6.104100" altitude="14.000000" flags="2" format="2" style="1"/>
-	</waypoints>
-</lk-task>
+<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_requires_arm="0" aat_min_time="10800" type="RT">
+	<Point type="Start">
+		<Waypoint altitude="39" comment="" id="1" name="Wendepunkt">
+			<Location latitude="51.7404" longitude="6.0823"/>
+		</Waypoint>
+		<ObservationZone length="5000" type="Line"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="48" comment="" id="2" name="Borken Bf">
+			<Location latitude="51.8485" longitude="6.86577"/>
+		</Waypoint>
+		<ObservationZone radius="3000" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="69" comment="" id="3" name="Ahaus Legden A31">
+			<Location latitude="52.0531" longitude="7.0625"/>
+		</Waypoint>
+		<ObservationZone radius="10000" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="158" comment="" id="4" name="Haltern Nordwest TV">
+			<Location latitude="51.7657" longitude="7.11708"/>
+		</Waypoint>
+		<ObservationZone radius="15000" type="Cylinder"/>
+	</Point>
+</Task>
