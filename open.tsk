@@ -1,26 +1,32 @@
-<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_requires_arm="0" aat_min_time="10800" type="RT">
+<Task pev_start_window="0" pev_start_wait_time="0" fai_finish="0" finish_min_height_ref="AGL" finish_min_height="0" start_max_height_ref="MSL" start_max_height="0" start_max_speed="0" start_score_exit="1" start_requires_arm="0" aat_min_time="10800" type="RT">
 	<Point type="Start">
-		<Waypoint altitude="39" comment="" id="1" name="Wendepunkt">
+		<Waypoint altitude="39" comment="" id="6270" name="Wendepunkt">
 			<Location latitude="51.7404" longitude="6.0823"/>
 		</Waypoint>
 		<ObservationZone length="5000" type="Line"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="48" comment="" id="2" name="Borken Bf">
-			<Location latitude="51.8485" longitude="6.86577"/>
+		<Waypoint altitude="30" comment="BAHNHOF" id="1583" name="Borken Bf">
+			<Location latitude="51.8483" longitude="6.86583"/>
 		</Waypoint>
 		<ObservationZone radius="3000" type="Cylinder"/>
 	</Point>
 	<Point type="Turn">
-		<Waypoint altitude="34" comment="" id="5" name="Schuttorf AB X">
+		<Waypoint altitude="34" comment="" id="6271" name="Schuttorf AB X">
 			<Location latitude="52.3414" longitude="7.25853"/>
 		</Waypoint>
 		<ObservationZone radius="25000" type="Cylinder"/>
 	</Point>
-	<Point type="Finish">
-		<Waypoint altitude="50" comment="" id="6" name="Borkenberge">
+	<Point type="Turn">
+		<Waypoint altitude="50" comment="" id="6272" name="Borkenberge">
 			<Location latitude="51.7803" longitude="7.2902"/>
 		</Waypoint>
-		<ObservationZone radius="20000" type="Cylinder"/>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="16" comment="Flugplatz" id="319" name="Goch Asperden">
+			<Location latitude="51.6908" longitude="6.10388"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="Cylinder"/>
 	</Point>
 </Task>
