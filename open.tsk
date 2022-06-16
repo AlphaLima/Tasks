@@ -1,27 +1,32 @@
-<Task type="RT" task_scored="0" aat_min_time="10800" start_max_speed="60" start_max_height="0" start_max_height_ref="MSL" finish_min_height="0" finish_min_height_ref="AGL" fai_finish="0" min_points="2" max_points="13" homogeneous_tps="0" is_closed="0">
-  <Point type="Start">
-    <Waypoint name="Abflug Asperdencup" id="0" comment="" altitude="63.0">
-      <Location longitude="6.0816667" latitude="51.7408333"/>
-    </Waypoint>
-    <ObservationZone type="Line" length="10000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Luedinghausen" id="0" comment="" altitude="52.0">
-      <Location longitude="7.4397167" latitude="51.76695"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
-  </Point>
-  <Point type="Turn">
-    <Waypoint name="Zutphen" id="0" comment="" altitude="6.0">
-      <Location longitude="6.2141667" latitude="52.13195"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="25000.0"/>
-  </Point>
-  <Point type="Finish">
-    <Waypoint name="Goch-Asperden" id="0" comment="" altitude="15.0">
-      <Location longitude="6.1041667" latitude="51.6908333"/>
-    </Waypoint>
-    <ObservationZone type="Cylinder" radius="4000.0"/>
-  </Point>
+<Task type="RT">
+	<Point type="Start">
+		<Waypoint altitude="39" name="Wendepunkt">
+			<Location latitude="51.740262" longitude="6.082145"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="48" name="Borken Bf">
+			<Location latitude="51.848504" longitude="6.865768"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="34" name="Schuttorf AB X">
+			<Location latitude="52.341422" longitude="7.25853"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="50" name="Borkenberge">
+			<Location latitude="51.78032" longitude="7.290201"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="FAISector"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="14" name="Goch-Asperden">
+			<Location latitude="51.690809" longitude="6.104193"/>
+		</Waypoint>
+		<ObservationZone radius="1000" type="Cylinder"/>
+	</Point>
 </Task>
-
