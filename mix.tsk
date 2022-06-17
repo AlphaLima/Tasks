@@ -9,7 +9,7 @@
 		<Waypoint altitude="50" comment="" id="6271" name="Borkenberge">
 			<Location latitude="51.7803" longitude="7.2902"/>
 		</Waypoint>
-		<ObservationZone type="Sector"/>
+		<ObservationZone type="Keyhole"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="14" comment="" id="4" name="Goch-Asperden">
