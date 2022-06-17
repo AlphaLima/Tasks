@@ -9,19 +9,19 @@
 		<Waypoint altitude="50" comment="" id="6272" name="Borkenberge">
 			<Location latitude="51.7803" longitude="7.2902"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone type="Sector"/>
 	</Point>
 	<Point type="Turn">
 		<Waypoint altitude="110" comment="" id="6" name="Hünsberg">
 			<Location latitude="51.9126" longitude="7.08583"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone type="Sector"/>
 	</Point>
 	<Point type="Turn">
 		<Waypoint altitude="50" comment="" id="6272" name="Borkenberge">
 			<Location latitude="51.7803" longitude="7.2902"/>
 		</Waypoint>
-		<ObservationZone type="FAISector"/>
+		<ObservationZone type="Sector"/>
 	</Point>
 	<Point type="Finish">
 		<Waypoint altitude="14" comment="" id="4" name="Goch-Asperden">
